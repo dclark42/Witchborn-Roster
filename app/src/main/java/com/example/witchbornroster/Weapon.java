@@ -1,6 +1,9 @@
 package com.example.witchbornroster;
 
-public class Weapon extends Item {
+import android.os.Parcel;
+import android.os.Parcelable;
+
+public class Weapon extends Item implements Parcelable {
     private int hands;
     private String attacks;
     private int damage;
@@ -8,9 +11,10 @@ public class Weapon extends Item {
     private String damageType;
     private int injury;
     private String range;
-    private int siege;
+    private String siege;
 
-    public Weapon(String name, String clan, float value, int rarity, boolean artifact, String description, int hands, String attacks, int damage, int chargeDamage, String damageType, int injury, String range, int siege) {
+
+    public Weapon(String name, String clan, float value, int rarity, boolean artifact, String description, int hands, String attacks, int damage, int chargeDamage, String damageType, int injury, String range, String siege) {
         super(name, clan, value, rarity, artifact, description);
         this.hands = hands;
         this.attacks = attacks;
@@ -78,11 +82,54 @@ public class Weapon extends Item {
         this.range = range;
     }
 
-    public int getSiege() {
+    public String getSiege() {
         return siege;
     }
 
-    public void setSiege(int siege) {
+    public void setSiege(String siege) {
         this.siege = siege;
     }
+
+    protected Weapon(Parcel in) {
+        super(in);
+        hands = in.readInt();
+        attacks = in.readString();
+        damage = in.readInt();
+        chargeDamage = in.readInt();
+        damageType = in.readString();
+        injury = in.readInt();
+        range = in.readString();
+        siege = in.readString();
+    }
+
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        super.writeToParcel(dest, flags);
+        dest.writeInt(hands);
+        dest.writeString(attacks);
+        dest.writeInt(damage);
+        dest.writeInt(chargeDamage);
+        dest.writeString(damageType);
+        dest.writeInt(injury);
+        dest.writeString(range);
+        dest.writeString(siege);
+    }
+
+    @SuppressWarnings("unused")
+    public static final Parcelable.Creator<Weapon> CREATOR = new Parcelable.Creator<Weapon>() {
+        @Override
+        public Weapon createFromParcel(Parcel in) {
+            return new Weapon(in);
+        }
+
+        @Override
+        public Weapon[] newArray(int size) {
+            return new Weapon[size];
+        }
+    };
 }

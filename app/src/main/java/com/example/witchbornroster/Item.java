@@ -1,6 +1,9 @@
 package com.example.witchbornroster;
 
-public class Item {
+import android.os.Parcel;
+import android.os.Parcelable;
+
+public class Item implements Parcelable {
     private String name;
     private String clan;
     private float value;
@@ -64,4 +67,41 @@ public class Item {
     public void setDescription(String description) {
         this.description = description;
     }
+
+    protected Item(Parcel in) {
+        name = in.readString();
+        clan = in.readString();
+        value = in.readFloat();
+        rarity = in.readInt();
+        artifact = in.readByte() != 0x00;
+        description = in.readString();
+    }
+
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        dest.writeString(name);
+        dest.writeString(clan);
+        dest.writeFloat(value);
+        dest.writeInt(rarity);
+        dest.writeByte((byte) (artifact ? 0x01 : 0x00));
+        dest.writeString(description);
+    }
+
+    @SuppressWarnings("unused")
+    public static final Parcelable.Creator<Item> CREATOR = new Parcelable.Creator<Item>() {
+        @Override
+        public Item createFromParcel(Parcel in) {
+            return new Item(in);
+        }
+
+        @Override
+        public Item[] newArray(int size) {
+            return new Item[size];
+        }
+    };
 }

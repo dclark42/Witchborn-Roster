@@ -1,6 +1,9 @@
 package com.example.witchbornroster;
 
-public class Armor extends Item {
+import android.os.Parcel;
+import android.os.Parcelable;
+
+public class Armor extends Item implements Parcelable {
     private int defense;
     private int speedPenalty;
     private String bulk;
@@ -11,6 +14,8 @@ public class Armor extends Item {
         this.speedPenalty = speedPenalty;
         this.bulk = bulk;
     }
+
+
 
     public int getDefense() {
         return defense;
@@ -35,4 +40,37 @@ public class Armor extends Item {
     public void setBulk(String bulk) {
         this.bulk = bulk;
     }
+
+    protected Armor(Parcel in) {
+        super(in);
+        defense = in.readInt();
+        speedPenalty = in.readInt();
+        bulk = in.readString();
+    }
+
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        super.writeToParcel(dest, flags);
+        dest.writeInt(defense);
+        dest.writeInt(speedPenalty);
+        dest.writeString(bulk);
+    }
+
+    @SuppressWarnings("unused")
+    public static final Parcelable.Creator<Armor> CREATOR = new Parcelable.Creator<Armor>() {
+        @Override
+        public Armor createFromParcel(Parcel in) {
+            return new Armor(in);
+        }
+
+        @Override
+        public Armor[] newArray(int size) {
+            return new Armor[size];
+        }
+    };
 }

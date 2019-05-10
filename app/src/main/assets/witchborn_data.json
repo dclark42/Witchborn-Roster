@@ -1,0 +1,2902 @@
+{
+  "Weapons": [
+    {
+      "Clan": "Orc",
+      "Name": "Battleaxe",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": 1,
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Battleaxe (2-H)",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "(1)",
+      "Damage": 1,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Dagger",
+      "Value": 1,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": 3,
+      "Damage": -2,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Gauntlets",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": 1,
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Heavy Shield",
+      "Value": 0,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": 1,
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Maul",
+      "Value": 0,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "[1]",
+      "Damage": 2,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Morning Star",
+      "Value": 1,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": 1,
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Pierce",
+      "Injury": 1,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Polearm",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "(1)",
+      "Damage": 1,
+      "Charge Damage": 3,
+      "Damage Type": "Pierce",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Scimitar",
+      "Value": 5,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": 2,
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Spear",
+      "Value": 2,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": 1,
+      "Damage": 0,
+      "Charge Damage": 2,
+      "Damage Type": "Pierce",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Two-Handed Sword",
+      "Value": 6,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "(1)",
+      "Damage": 2,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 1,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "War Club",
+      "Value": 0,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "1",
+      "Damage": -1,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "War Club (2-H)",
+      "Value": 0,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "(1)",
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Fist",
+      "Value": 0,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "1",
+      "Damage": -3,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "War Dog Bite",
+      "Value": 0,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "1",
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Pierce",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": "Locked-On"
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Composite Bow",
+      "Value": 10,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "2",
+      "Damage": 1,
+      "Charge Damage": 0,
+      "Damage Type": "Pierce",
+      "Injury": 1,
+      "Range": "L",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Dagger",
+      "Value": 1,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "3",
+      "Damage": -2,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "S",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Sling",
+      "Value": 0.5,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "2",
+      "Damage": -2,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "L",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Spear",
+      "Value": 2,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "1",
+      "Damage": -1,
+      "Charge Damage": 0,
+      "Damage Type": "Pierce",
+      "Injury": 0,
+      "Range": "PB",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Boulders",
+      "Value": 0,
+      "Rarity": 0,
+      "Hands": 0,
+      "Attacks": "1",
+      "Damage": 4,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "L",
+      "Siege": 1,
+      "Artifact": false,
+      "Description": "Limited to Ogres. No skill, magick, or spell applies to attacks and no re-roll of attack dice, damage feats, or injury outcomes is ever allowed. Never out of ammo from an oops because boulders are always plentiful. Treat as a miss instead."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Catapult",
+      "Value": 8,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "[1]",
+      "Damage": 7,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "XL",
+      "Siege": 2,
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Heavy Catapult",
+      "Value": 14,
+      "Rarity": 3,
+      "Hands": 2,
+      "Attacks": "[1]",
+      "Damage": 10,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 1,
+      "Range": "XL",
+      "Siege": 2,
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Battleaxe",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": 1,
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Battleaxe (2-H)",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "(1)",
+      "Damage": 1,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Bazurite Staff",
+      "Value": 4,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "2",
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Dragon Spear",
+      "Value": 7,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "1",
+      "Damage": 1,
+      "Charge Damage": 3,
+      "Damage Type": "Pierce",
+      "Injury": 1,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Fist",
+      "Value": 0,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "1",
+      "Damage": -3,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Hand Axe",
+      "Value": 1,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "2",
+      "Damage": -1,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Longhammer",
+      "Value": 5,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "[1]",
+      "Damage": 2,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "War Axe",
+      "Value": 6,
+      "Rarity": 4,
+      "Hands": 1,
+      "Attacks": "2",
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "War Axe (2-H)",
+      "Value": 6,
+      "Rarity": 4,
+      "Hands": 2,
+      "Attacks": "1",
+      "Damage": 1,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Warhammer",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "1",
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Warhammer (2-H)",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "(1)",
+      "Damage": 1,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Crossbow",
+      "Value": 8,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "(1)",
+      "Damage": 2,
+      "Charge Damage": 0,
+      "Damage Type": "Pierce",
+      "Injury": 0,
+      "Range": "L",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Heavy Crossbow",
+      "Value": 13,
+      "Rarity": 5,
+      "Hands": 2,
+      "Attacks": "(1)",
+      "Damage": 3,
+      "Charge Damage": 0,
+      "Damage Type": "Pierce",
+      "Injury": 0,
+      "Range": "VL",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Throwing Axe",
+      "Value": 1,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "2",
+      "Damage": -1,
+      "Charge Damage": 0,
+      "Damage Type": "Gash",
+      "Injury": 0,
+      "Range": "S",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Throwing Hammer",
+      "Value": 3,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "2",
+      "Damage": 0,
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": 0,
+      "Range": "S",
+      "Siege": "",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Witch Hunter",
+      "Value": 1,
+      "Rarity": 0,
+      "Hands": 1,
+      "Attacks": "1",
+      "Damage": "0",
+      "Charge Damage": 0,
+      "Damage Type": "Blunt",
+      "Injury": "0",
+      "Range": "S",
+      "Siege": "",
+      "Artifact": false,
+      "Description": "Interrupt with this heavy chain when an opposing rider or flier moves within short range. (Your warrior can’t be marked by a condition marker or a chit). A successful hit knocks down the target (even a rider in a saddle) with no damage feat or injury outcome. The victim easily removes the witch hunter and can remount or fly next turn. Levitating opponents may be targeted also."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Ballista",
+      "Value": 18,
+      "Rarity": 0,
+      "Hands": 2,
+      "Attacks": "[1]",
+      "Damage": 8,
+      "Charge Damage": 0,
+      "Damage Type": "Pierce",
+      "Injury": 0,
+      "Range": "XL",
+      "Siege": 1,
+      "Artifact": false,
+      "Description": ""
+    }
+  ],
+  "Armor": [
+    {
+      "Clan": "Orc",
+      "Name": "Breastplate",
+      "Value": 2,
+      "Rarity": 0,
+      "Defense": 2,
+      "Speed Penalty": 0,
+      "Bulk": "Light",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Brigadine",
+      "Value": 5,
+      "Rarity": 0,
+      "Defense": 3,
+      "Speed Penalty": 0,
+      "Bulk": "Light",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Ogre Brigadine",
+      "Value": 8,
+      "Rarity": 0,
+      "Defense": 3,
+      "Speed Penalty": 0,
+      "Bulk": "Light",
+      "Artifact": false,
+      "Description": "Big 'Un only"
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Scale Armor",
+      "Value": 10,
+      "Rarity": 0,
+      "Defense": 4,
+      "Speed Penalty": -1,
+      "Bulk": "Medium",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Ogre Scale Armor",
+      "Value": 16,
+      "Rarity": 0,
+      "Defense": 4,
+      "Speed Penalty": -1,
+      "Bulk": "Medium",
+      "Artifact": false,
+      "Description": "Big 'Un only"
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Beast Helm",
+      "Value": 10,
+      "Rarity": 0,
+      "Defense": 1,
+      "Speed Penalty": 0,
+      "Bulk": "None",
+      "Artifact": false,
+      "Description": "Grants Fearsome"
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Heavy Shield",
+      "Value": 5,
+      "Rarity": 0,
+      "Defense": 1,
+      "Speed Penalty": 0,
+      "Bulk": "None",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Spikes",
+      "Value": 4,
+      "Rarity": 0,
+      "Defense": 1,
+      "Speed Penalty": 0,
+      "Bulk": "None",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Breastplate",
+      "Value": 2,
+      "Rarity": 0,
+      "Defense": 2,
+      "Speed Penalty": 0,
+      "Bulk": "Light",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Studded Leather",
+      "Value": 5,
+      "Rarity": 0,
+      "Defense": 3,
+      "Speed Penalty": 0,
+      "Bulk": "Light",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Chainmail",
+      "Value": 10,
+      "Rarity": 0,
+      "Defense": 4,
+      "Speed Penalty": -1,
+      "Bulk": "Medium",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Bazurite Chainmail",
+      "Value": 15,
+      "Rarity": 3,
+      "Defense": 4,
+      "Speed Penalty": 0,
+      "Bulk": "Light",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Platemail",
+      "Value": 15,
+      "Rarity": 0,
+      "Defense": 6,
+      "Speed Penalty": -2,
+      "Bulk": "Heavy",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Bazurite Platemail",
+      "Value": 22,
+      "Rarity": 4,
+      "Defense": 6,
+      "Speed Penalty": -1,
+      "Bulk": "Medium",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Dragonscale",
+      "Value": 30,
+      "Rarity": 6,
+      "Defense": 7,
+      "Speed Penalty": -2,
+      "Bulk": "Heavy",
+      "Artifact": false,
+      "Description": "First owner earns +5 Shadow points. Trade dragonscale within your war clan but it can never be resold."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Shield",
+      "Value": 1,
+      "Rarity": 0,
+      "Defense": 0,
+      "Speed Penalty": 0,
+      "Bulk": "None",
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Mantlet",
+      "Value": 4,
+      "Rarity": 0,
+      "Defense": 0,
+      "Speed Penalty": 0,
+      "Bulk": "None",
+      "Artifact": false,
+      "Description": "Rolling barrier to provide cover on foot with a slit to fire a crossbow or ballista through. Push it while moving but charging or sprinting is prohibited. If your warrior has the Shield skill, block shield hits from missiles but not melee attacks. Too awkward to take indoors or squeeze. Unable to be stolen when unattended. Represent it with the Mantlet template."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Runehelm",
+      "Value": 10,
+      "Rarity": 4,
+      "Defense": 1,
+      "Speed Penalty": 0,
+      "Bulk": "None",
+      "Artifact": false,
+      "Description": ""
+    }
+  ],
+  "Gear": [
+    {
+      "Clan": "Orc",
+      "Name": "Everburning Coals",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": true,
+      "Description": "Provides Illumination in a 8 pace radius."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Lantern",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Provides Illumination in a 12 pace radius. Rolld d6 in the Aftermath after using. On a 1, oil needs to be replaced."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Torch",
+      "Value": 0.333,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "Provides Illumination in a 8 pace radius."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Wand of Light",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": true,
+      "Description": "Provides Illumination in a 12 pace radius. Rolld d6 in the Aftermath after using. On a 1, oil needs to be replaced."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Aryag",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "Drink this fermented milk when wounded by poison. Redraw the wound (even a kill) until getting a knockout."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Battering Ram",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Add +2 to a feat of Strength when bashing open doors, gates, or even Force Fields. Add +2 Strength per comrade within reach (up to three) so four warriors add +8 to the feat of Strength."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Battle Standard",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Required for the Rally and Signal skills. It’s blazoned with your war clan’s colors and symbols. This standard occupies your warrior’s third weapon slot and prohibits using 2-handed weapons, skills, or shields."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Battle Tonic",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Fighter skill for 1 adventure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Bedroll",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Get clarity from a good night’s sleep. Re-roll 1 ability feat each adventure. A bedroll doesn’t affect attack dice or an injury outcome. Faeries don’t sleep so earn no re-roll."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Beeswax",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "A dollop of beeswax is enough to plug the ears of your entire war clan from unwanted songs for an adventure. Beeswax grants immunity to Dwarven war drums, a Harpy Song, all Norn Songs (good or bad), and a Siren Song. Your leader’s Commands are impossible to hear without the Signal skill."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Bloodsmith Tools",
+      "Value": 4,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Prerequisite for the Bloodsmith skill. Due to size and weight, these tools are Secure—unable to be stolen."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Bow Strap",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Attach a composite bow to your warrior’s wrist to make the bow Secure—unable to be stolen."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Disguise",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Mask Animosity or Rancor. Add +2 to reaction checks. A disguise doesn’t lift Rancor restrictions for entering the Pit in Asylum."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Draught of Defense",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Rugged skill for 1 adventure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Elixir of Vigor",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Your warrior must drain the elixir right away to cure 1 knockout, maimed, or War Wound result. An Elixir of Vigor does nothing for a kill result. It can cure mounts and other creatures but not a Faerie. The elixir doesn’t stop WitchBorn or other Feasters from chomping. They must still be distracted to prevent your warrior from being consumed."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Fire Salve",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Wastelands priests developed a thick salve to slather over clothing and equipment to grant the Fireproof trait. Your warrior can literally walk through natural or magical fire for 1 adventure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Four-Leaf Clover",
+      "Value": 1,
+      "Rarity": 6,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "It’s your lucky day! Cancel Faerie magick targeting your warrior whether it’s Charm, Delusion, Eldritch Fire, Entangle, Mend, Mimic, Murk, Rot, Serendipity, Sleep, Starfire, Unseen, or Wish. Once magick is canceled, the luck is expended and the clover is crossed off your roster. The clover does nothing against spells cast by a Faerie."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Galabeya",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "A Wastelands robe leaving only a tiny eye slit exposed. The robe cools so your warrior is immune to heat exhaustion, when normally he’d be forced to drain a drinking vessel. The robe also wards off flying debris so your warrior moves through a sandstorm, sirocco, or twister normally. Can’t be stolen unless your warrior is unconscious (wounded)."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Healthy Draught",
+      "Value": 1,
+      "Rarity": 3,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "A dribble of this bitter syrup protects from blood loss for 1 adventure. Consume it and mark “Healthy Draught” as a skill. If your warrior is maimed or suffers a War Wound, continue to draw wounds ignoring any except a knockout. If the original wound is a kill, your warrior still dies."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Hiking Boots",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Skid to a halt on a failed push before falling. Stand your warrior at the last spot he reached before the failed push. His turn ends there. Boots can’t be stolen unless your warrior is unconscious (wounded)."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Huntsman’s Draft",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Sniper skill for 1 adventure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Intellect Boost",
+      "Value": 2,
+      "Rarity": 2,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Savant skill for 1 adventure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Jenever Berry",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "A stimulant to reduce shock from blood loss when injured. Consume only 1 per adventure. Effects are immediate. A stunned condition marker becomes staggered or a staggered marker is removed completely. The berry has no effect on other conditions or a wound."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Lightning Rod",
+      "Value": 1,
+      "Rarity": 2,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Absorb lightning plus a Lightning Bolt or Lightning Strike spell cast within a 4-pace radius. There’s no harm to your warrior or anyone in the spell’s target radius."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Lock Picks",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Prerequisite for the Opener skill. Tools include various sizes of picks, master keys, tiny levers, and hammers."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Looking Glass",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "The best defense against a medusa or basilisk; also distracts a Pixie. GAZE ATTACKS. Avoid direct eye contact by watching the creature’s reflection to attack. Your warrior is limited to 1-handed weapons and no shield. Maximum missile range is short due to the awkwardness of aiming. PIXIES ARE QUITE VAIN. Showing one her reflection gives her a strike last condition marker along with other Pixies in pointblank range."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Mandrake Root",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Grows in the fetid swamps of Sorcha though legend claims it springs from the sweat droplets of hanged criminals. The root grants the Stout skill so your warrior ignores pain for 1 adventure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Potion of Bravery",
+      "Value": 0.5,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "The potion grants the Fearless trait for 1 adventure, letting your warrior ignore rout feats."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Provisions",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "You scrounge up enough food to survive but provisions give an extra burst of energy. Your warrior can interrupt to take a turn if he isn’t marked by a condition marker or chit. Carry multiple servings but your warrior can consume only 1 per adventure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Rope and Grapnel",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Hooks to a ledge or outcropping, granting the Climb skill. Your warrior scales surfaces up to 5 paces high. Higher climbs can’t be attempted. Sprinting isn’t allowed. Also prohibits armor bulkier than light. The rope can’t be shared; each warrior needs one."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Rope Ladder",
+      "Value": 4,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Hooks to a ledge or outcropping, granting the Climb skill. Scale surfaces up to 6 paces high. It’s so easy to climb, sprinting up or down is possible. The ladder can be shared with others. Have the last climber reclaim it or it’s lost."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Saddle",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Prerequisite for the Bow Rider skill. It also prevents a “knockdown” from an oops or the Mighty skill. Roster: List the saddle in gear slot 7. It can’t be stolen while riding."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Shovel",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Dig a foxhole in your staging area before an adventure for cover. Climb out for free. It’s also helpful when a discovery hints at buried treasure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Silk Undershirt",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "A piercing arrow, bolt, or spearhead gets twisted in the silk which helps it slide free of a wicked wound easier. Redraw a maimed or War Wound result from a piercing weapon until you get a knockout instead. Discard the undershirt after suffering either type of wound."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Sorcerer’s Bones",
+      "Value": 8,
+      "Rarity": 6,
+      "Consumable": false,
+      "Artifact": true,
+      "Description": "Necklace from the finger bones of a mage grants immunity from an opposing Adept’s First and Second Magnitude spells."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Spell Components",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Necessary to cast spells. Components can be spoiled by an oops so many Shamans carry backups."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Stag’s Mead",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Swift skill for 1 adventure to increase the distance your warrior charges, moves, and sprints. It could even increase his attacks per turn (see Finer Points, Combat)."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Swimmer’s Blend",
+      "Value": 0.5,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Get 2 doses for 1 GP. It has the smell and flavor of strong coffee plus grants the Swim trait for an adventure."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Ta-Li’s Poultice",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Apply to a wounded Orc or Ogre immediately in the Aftermath with a prayer for Mother Ta-Li’s healing touch. Completely cure 1 maimed or War Wound result. Roster: Track each use in your Orc’s notes; after 3 or more times, he’s so disfigured he gets the Gruesome and Rancor traits."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Thumb Guard",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Use a “thumb draw” with a composite bow to avoid “string pinch.” Treat an oops as only a miss unless the result is “Out of Ammo.”"
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Vellum",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "Necessary for your Shaman to create a scroll."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Waterskin",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Keep hydrated and fresh. Once per adventure, your warrior ignores fatigue after sprinting and won’t get a strike last condition marker. The waterskin can also be inflated to float across bodies of water. Your warrior is granted the Swim trait with a Speed of 4. Roster: Mark a “dot” next to the waterskin once consumed. Reprint your roster before next adventure and it’s refilled. Riders: Use a waterskin after galloping to avoid striking last."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Winter Mantle",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": true,
+      "Description": "An enchantment to this heavy hooded cloak keeps your warrior toasty in the iciest conditions. The mantle serves as winter gear in frigid weather (see Adventures in Campaign Rules) and ignores weather-based penalties from rain."
+    },
+    {
+      "Clan": "Orc",
+      "Name": "Extra Ammo",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": ""
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Bazurite Runeforge Tools",
+      "Value": 8,
+      "Rarity": 5,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Meets the prerequisite for the Runeforge skill. Due to size and weight, these tools are Secure—unable to be stolen. Add +2 to your master Runeforge’s level when investing a rune of power. Roster: Record the tools in gear slot 7."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Bedroll",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Get clarity from a good night’s sleep. Re-roll 1 ability feat each adventure. A bedroll doesn’t affect attack dice or an injury outcome. Faeries don’t sleep so earn no re-roll."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Beeswax",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "A dollop of beeswax is enough to plug the ears of your entire war clan from unwanted songs for an adventure. Beeswax grants immunity to Dwarven war drums, a Harpy Song, all Norn Songs (good or bad), and a Siren Song. Your leader’s Commands are impossible to hear without the Signal skill."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Chest",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Lock up 6 items of gear. Contents of the chest are Secure. Your warrior has the key and can access items during an adventure. Forcing the lock with a feat of Strength ruins the contents on a roll of 1."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Climbing Harness",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "A strong rope and pitons grant the Climb skill. The harness is so stable, your warrior can sprint while climbing and even climb with the bulkiest armor."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Crimson Weed",
+      "Value": 3,
+      "Rarity": 5,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Pipe tobacco from dried leaves of the blood oak of Silvandrian. The smoker is granted the Mighty and Quickness skills for 1 adventure."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Devil’s Nettles",
+      "Value": 0.5,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Drinking the concoction grants the Fury skill for 1 adventure."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Dragon Blood",
+      "Value": 4,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "Your warrior must drink the blood right away to cure 1 knockout, maimed, or War Wound result or counteract poisons for 1 adventure. HEALING. Dragon blood does nothing for a kill result. It can cure mounts, other creatures, and even a Faerie. It doesn’t stop WitchBorn or other Feasters from chomping. They must still be distracted to prevent your warrior from being consumed. COUNTERACT POISONS FOR 1 ADVENTURE. An opponent still rolls the damage feat or injury outcome but poison modifiers don’t apply. This protection extends to the Harm and Thorn of Ruin spells. Dragon blood wears off by the aftermath."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Draught of Defense",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Rugged skill for 1 adventure."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Drinking Horn",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Keep hydrated and fresh. Once per adventure, your warrior ignores fatigue after sprinting and won’t get a strike last condition marker. Also use a drinking horn after galloping to avoid striking last."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Elixir of Brawn",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Champion skill for an adventure, increasing Strength +1."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Elixir of Vigor",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Your warrior must drain the elixir right away to cure 1 knockout, maimed, or War Wound result. An Elixir of Vigor does nothing for a kill result. It can cure mounts and other creatures but not a Faerie. The elixir doesn’t stop WitchBorn or other Feasters from chomping. They must still be distracted to prevent your warrior from being consumed."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Hatchet",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Add +2 to feats of Strength when hacking open doors or locked chests. It also doubles as a hand ax."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Healthy Draught",
+      "Value": 1,
+      "Rarity": 3,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "A dribble of this bitter syrup protects from blood loss for 1 adventure. Consume it and mark “Healthy Draught” as a skill. If your warrior is maimed or suffers a War Wound, continue to draw wounds ignoring any except a knockout. If the original wound is a kill, your warrior still dies."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Hiking Boots",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Skid to a halt on a failed push before falling. Stand your warrior at the last spot he reached before the failed push. His turn ends there. Boots can’t be stolen unless your warrior is unconscious (wounded)."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Intellect Boost",
+      "Value": 2,
+      "Rarity": 2,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Savant skill for 1 adventure."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Keg of Stout",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "Guzzle this strong ale before an adventure to raise spirits and grant your entire war clan the Grit skill. When playing Asylum, the keg counts as 1 round of drinks for the war clan."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Looking Glass",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "The best defense against a medusa or basilisk; also distracts a Pixie. GAZE ATTACKS. Avoid direct eye contact by watching the creature’s reflection to attack. Your warrior is limited to 1-handed weapons and no shield. Maximum missile range is short due to the awkwardness of aiming. PIXIES ARE QUITE VAIN. Showing one her reflection gives her a strike last condition marker along with other Pixies in pointblank range."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Pickaxe",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Dig a foxhole in your staging area before an adventure for cover. Climb out for free. It’s also helpful when a discovery hints at buried treasure."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Provisions",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "You scrounge up enough food to survive but provisions give an extra burst of energy. Your warrior can interrupt to take a turn if he isn’t marked by a condition marker or chit. Carry multiple servings but your warrior can consume only 1 per adventure."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Pubmaster’s Brew",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Get three doses for 1 GP. Remove the intoxicating effects of alcohol in an adventure like Asylum. The brew alleviates the aftereffects of Ambrosia for mortals but does nothing for Faeries suffering the effects of Elfwort."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Runeforge Tools",
+      "Value": 4,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Prerequisite for the Runeforge skill. Due to size and weight, these tools are Secure—unable to be stolen. Roster: Record the tools in gear slot 7."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Rune Key",
+      "Value": 5,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": true,
+      "Description": "This rune of power opens any lock, granting the Opener skill (no lock picks are needed)."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Rune Standard",
+      "Value": 10,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": true,
+      "Description": "Grants your warrior the Rally skill plus grants comrades in short range the Fearless trait. This standard occupies your warrior’s third weapon slot and prohibits using 2-handed weapons, skills, or shields."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Rune Wand",
+      "Value": 7,
+      "Rarity": 2,
+      "Consumable": false,
+      "Artifact": true,
+      "Description": "Substitute the wand for spell components. It grants the Spell Blast skill. If your Adept gets “Fizzle” on an oops, the wand ceases functioning for the adventure. It’s good to carry backup spell components just in case."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Saddle",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Prerequisite for the Beast Rider skill. It also prevents a “knockdown” from an oops or the Mighty skill. Roster: List the saddle in gear slot 7. It can’t be stolen while riding."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Snow Gear",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Provides warmth in frigid temperatures and serves as winter gear when an adventure requires it. Snow gear also grants the Conceal skill on a snowy battlemap like Seven Sleeping Kings."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Spell Components",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Necessary to cast spells. Components can be spoiled by an oops so many Shamans carry backups."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Troll’s Brew",
+      "Value": 2,
+      "Rarity": 2,
+      "Consumable": true,
+      "Artifact": true,
+      "Description": "Grants the Regenerate trait for 1 adventure."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Vellum",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": true,
+      "Artifact": false,
+      "Description": "Necessary for your Shaman to create a scroll."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "War Drum",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "The beat rumbles like a thunderstorm to inspire confidence, adding +2 to comrades’ rout feats. Additional drummers add +1 more each. Use War Drum templates to indicate drummers. YOUR DRUMMER CAN ONLY MOVE. If he attacks, sprints, or attempts a feat, drumming ceases. Remove the template. He can start again next turn."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Windlass",
+      "Value": 3,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Cranking device to cock a crossbow quickly. Attacks per turn improve from (1) to 1, allowing a full charge before firing. A Speed of 8 or better allows 2 attacks per turn. A windlass is needed to fire a crossbow while mounted, flying, or riding in a vehicle."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Hearthstone",
+      "Value": 2,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": true,
+      "Description": "Provides Illumination in a 8 pace radius."
+    },
+    {
+      "Clan": "Dwarf",
+      "Name": "Lantern",
+      "Value": 1,
+      "Rarity": 0,
+      "Consumable": false,
+      "Artifact": false,
+      "Description": "Provides Illumination in a 12 pace radius. Rolld d6 in the Aftermath after using. On a 1, oil needs to be replaced."
+    }
+  ],
+  "Skills": [
+    {
+      "Category": "Orc",
+      "Type": "Master",
+      "Name": "Barrage",
+      "Prerequisite": "Catapult or Heavy Catapult",
+      "Restrictions": "",
+      "Description": "Slow an enemy advance with a frenzied catapult assault. Barrage is a rare skill that helps with siege missiles. BLANKET AN AREA WITH BOULDERS. Extend a catapult’s target radius to 3 paces. The shower of boulders also adds +1 attack die—that’s 2 attack dice each shot! SPELLFIRE. Target radius doesn’t increase but the extra attack die still applies."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Blood Magus",
+      "Prerequisite": "Must be a Shaman",
+      "Restrictions": "",
+      "Description": "After wounding a victim through combat or spellcasting, your Shaman smears the victim’s blood over his forehead and bridge of his nose with words of praise to Mother Ta-li. This blood ritual takes no time but increases your Shaman’s Psyche score +1 for the adventure. Wound others and your Shaman’s Psyche continues to increase. Increased Psyche carries over into the Aftermath but wears off before next adventure."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Master",
+      "Name": "Bloodsmith",
+      "Prerequisite": "Bloodsmith Tools",
+      "Restrictions": "",
+      "Description": "Intimidate foes with equipment adorned by skulls and occult symbols. During the Aftermath forge an item, repair broken equipment, or invest an item with foul blood magic."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Clout",
+      "Prerequisite": "",
+      "Restrictions": "Deflect negates Clout. Clout doesn’t combine with Assassin, Clobber, Deadly Aim, Dispatch, Lucky Strike, Thrash, Tiger Claw, or Vanquish. Doesn’t work with catapults.",
+      "Description": "For your Orc, the only sound better than an arrow piercing an eye is a cracking skull. GET BLOODY. Attack with a melee or missile weapon. For a successful hit and damage feat, 1-5 Stunned, 6 Wounded."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Trait",
+      "Name": "Feral",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Orcs are uncaring when a comrade falls in battle and numb to danger. This savage instinct adds +2 to rout feats."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Forager",
+      "Prerequisite": "",
+      "Restrictions": "Bonuses aren’t cumulative so two Foragers don’t combine for a bigger benefit. Doesn’t combine with Barter, Fence, Glamour, Haggle, or Moneychanger.",
+      "Description": "The Empire’s logistical nightmare was supplying thousands of troops with food and equipment. Foragers traveled with the army to ensure the best fed and best equipped Orcs. Your Forager assumes this role for your war clan. BETTER VALUE. Traded equipment is only worth ½ value but your Forager gets full value by converting unwanted items to chattel. Amassing chattel increases a comrade’s Shadow (see Orc Equipment). THE RAREST EQUIPMENT IS ALWAYS AVAILABLE. Make the rarity roll to pay normal price. Fail the roll and find the item but pay 50% more than normal (rounded up). This doesn’t help with learning spells for your Shaman’s repertoire."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Gore",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t affect a victim protected by a Healthy Draught.",
+      "Description": "Don’t be satisfied with a knockout; leave foes mutilated and humiliated. Then, display grisly trophies as a warning to future enemies. GO FOR BLOOD. If your warrior causes a knockout in melee, redraw the wound (1 time) in hopes of getting a result worth more Shadow. TAKE A TROPHY. If the new result is maimed, War Wound, or kill, your warrior takes a finger, ear, scalp, or another grim trophy. Each trophy is worth +1 Shadow point. Roster: Track trophies in gear slot 7. The value per trophy is 1 GP to your Orc. They are valueless if stolen or traded."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Trait",
+      "Name": "Gruesome",
+      "Prerequisite": "",
+      "Restrictions": "Opponents with Einherjar, Embolden, Fear, Fearsome, Fearless, Grit, Gruesome, Terror, Valor, War Cry, or WitchBorn are immune.",
+      "Description": "Your Orc has suffered so many wounds, scars have left him repulsive. INTIMIDATE MELEE OPPONENTS. Foes only get 1 attack die against your Gruesome Orc. This is true even when the foe has higher Strength, surprise, or your Orc is stunned. SCARY LOOKING. This unappealing appearance changes your Orc’s Animosity to Rancor. If already Rancorous, your Orc is already as disagreeable as he’ll get."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Trait",
+      "Name": "Guard Dog",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A Hounds Keeper trains your war dog to reveal hiding creatures or sit as a sentry. REVEAL HIDING CREATURES WITHIN SHORT RANGE. As long as your Guard Dog doesn’t have a condition marker, it interrupts to bark and reveal a hiding opponent within short range. (The opponent gets no surprise attack and loses the hiding template). This does not count as the Guard Dog’s turn. STATION A GUARD DOG AS A SENTRY. Its master can move away without the Guard Dog following. It sits at a chosen spot until a creature besides a comrade passes within short range. The Guard Dog interrupts to take a turn as long as it doesn’t have a condition marker. It barks and attacks until either the creature or dog is wounded. The master can also signal the war dog to stop its attack."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Hounds Keeper",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Train war dogs for protection and guard duty. Training is heartless but when complete, dogs follow hand signals and simple commands with ferocious zest."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Khan",
+      "Prerequisite": "Warlord of level 6 or higher",
+      "Restrictions": "",
+      "Description": "Khan is more than a title of respect—it’s a mandate from Heaven. Power comes from the Mother goddess Ta-li of the steppe and Lord Tengri of the sky. The Khan is their vice-regent in Perdition, subject to no inferior power. Fortified by gods of Heaven and Earth, your Khan executes their divine will to champion Orcs in becoming ruler of Elves and men once again. Your Khan taps anima, the inner vital force connecting us with the universe and providing power over events.\\n FOCUS ANIMA ONCE EACH TURN. First Strike or affect a die roll. Choose 1 of the following:\\n • First Strike\\n • Re-roll all attack dice\\n • Re-roll a feat\\n • Re-roll an injury outcome\\n REDIRECT ANIMA. Apply anima to the Command skill. A comrade may re-roll normally. Your Khan still gets a normal turn, is not marked by a chit or condition marker, but Your Khan may not use anima or Command again that round."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Overwhelm",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Draw in formidable foes to encircle them and strike like a pack of wolves.\\n MAKE A COMRADE STRONGER WITH AN ASSIST (rather than just adding +1 Strength). This guarantees a weak comrade 2 attack dice versus an earth giant! Pair up Orcs with Overwhelm to become nearly unstoppable in melee.\\n OVERWHELM EVEN WORKS WHILE DEFENDING. Opponents are weaker so get 1 attack die versus the comrade and need a critical to hit.\\n Overwhelm is canceled if your Orc has a condition marker. Dragon Spirit, the Indomitable spell, or the Antler Crown also cancel Overwhelm. Grudgebearer and Overwhelm negate each other so use normal Strengths and assists only."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Pounce",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Longstrider or Skirmisher.",
+      "Description": "Leap to battle quick as a cat, adding +2 paces to charges. This extra burst doesn’t help moves or sprints and only works on foot. Bulky armor doesn’t hamper Pounce."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Master",
+      "Name": "Shield Rush",
+      "Prerequisite": "Heavy Shield",
+      "Restrictions": "Shield Rush prohibits using 2-handed weapons or skills. Opponents with Zero In can ignore your warrior’s heavy shield on missile shots. Sidestep allows only one shield or weapon attack. Doesn’t combine with Blade Barrier, Blades, Blades Master, Bull Rush, Gird, Nari, Onslaught, Shield, or Shield Bash.\\n Riders: Can’t use shield attack while mounted.\\n Fliers: Gain normal protection in the air. Since your flier only attacks once per turn, choose between the heavy shield or other weapon.",
+      "Description": "Developed to ravage ranks of Elven archers, Shield Rush imparts protection plus the crushing impact of a bludgeon.\\n PROTECTION. Block the attack when an opponent rolls a shield hit. Be protected against any number of shield hits in the round.\\n SHIELD ATTACK FIRST. Get attack dice like any melee weapon. Use damage and injury modifiers listed for a heavy shield in Melee Weapons. Batter, Clobber, or a shield spike improve these numbers. Roll an injury outcome if needed but the result can‘t wound an opponent; he’s stunned at worst. Never take more than 1 shield attack per turn.\\n MELEE WEAPON SECOND. Finish with your warrior’s normal melee attack(s).\\n CHARGE! Attack once with the shield and once with a melee weapon."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Signal",
+      "Prerequisite": "Battle Standard and Rally",
+      "Restrictions": "",
+      "Description": "Signal is a silent battle language practiced by most Harbingers. A battle standard conveys complex messages over vast distances to enable coordinated attacks.\\n EXTEND THE RANGE OF COMMAND TO THE ENTIRE BATTLEMAP. Your standard bearer only needs a line of sight to your Warlord and a comrade who needs a re-roll. Signaling this way doesn’t count as your standard bearer’s turn.\\n Example: Bo’orchu is in the opposite corner of the battlemap from his Warlord, Ogolai. But your standard bearer stands halfway between them with a clean line of sight to both. Bo’orchu understands Ogolai’s Command more than 30 paces away!\\n RALLY ANYONE YOUR STANDARD BEARER HAS A LINE OF SIGHT TO. Rally isn’t limited to short range. Also Rally up to 2 comrades rather than one.\\n SIGNAL AN ATTACK. When your chit is drawn, your standard bearer may move into position, Signaling 2 comrades in line of sight. The comrades may interrupt and take turns as long as they’re not marked by a chit or condition marker. Afterward, the comrades and your standard bearer are all marked with chits. No more than 3 warriors can take turns in a row so take your standard bearer’s turn first. Also, if your standard bearer uses First Strike, he can’t Signal (interrupts can only happen during normal turns not during the First Strike or last strike phase)."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Master",
+      "Name": "Tireless",
+      "Prerequisite": "",
+      "Restrictions": "Can’t interrupt with a condition marker. Doesn’t combine with Diehard, Relentless, or Self Control.\\n Riders: Only works while riding a stone horse.\\n Fliers: Stay aloft while stunned, rather than automatically crashing.",
+      "Description": "Selegen Gol is desolate, arid, and mountainous. Fresh water is often more than a day’s march away. Your Orc thrives in these harsh conditions without weariness.\\n SPRINT WITHOUT FATIGUE. Get no strike last condition marker after sprinting.\\n NEVER STRIKE LAST. Your warrior may have a disarmed, shaken, staggered, or stunned condition marker but may take a turn as soon as the marshal draws your chit."
+    },
+    {
+      "Category": "Orc",
+      "Type": "Basic",
+      "Name": "Vanguard",
+      "Prerequisite": "Tireless",
+      "Restrictions": "",
+      "Description": "The Empire’s elite scouts deployed quickly and quietly to secure sites in advance of the main force.\\n FIRST INTO BATTLE. Your Vanguard studies terrain for tactical advantages and is granted the Conceal skill.\\n CLEAR THE WAY. As lead scout, add +2 to discovery feats, rooting out trouble ahead. Creatures encountered start +4 paces farther from your Vanguard than the discovery states and as far from comrades as possible.\\n ALWAYS PREPARED. Set for charge once per round (Finer Points, Combat). Your Vanguard may interrupt for 1 melee attack when a foe moves within reach (if your Vanguard is not marked by a condition marker). The weapon isn’t limited to spears or polearms; wield any from battleaxe to war club for a single attack. If your Vanguard already had a turn this round and is marked by a chit, he also gets a strike last condition marker.\\n Example: Your Vanguard moves up for a discovery feat, sensing something lurking in the long plains grass and is marked with a chit. A discovery feat succeeds and your Vanguard encounters a troll. The discovery states the troll starts next to your Vanguard for a surprise attack. But instead, it starts 4 paces from your Vanguard and charges for its surprise attack. Your Vanguard sets for charge with 1 scimitar slash and is marked with a strike last condition marker. The troll only finishes its surprise attack if uninjured."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Beast Rider",
+      "Prerequisite": "Cave Bear and Saddle; warrior can’t be a Big ’Un or Wee",
+      "Restrictions": "Doesn’t combine with the Cavalier or Bow Rider skills.",
+      "Description": "Beast Riders are shock troops. The sight of a well-armored Dwarf astride a massive cave bear is enough for even a stouthearted Orc to wet himself. Once mounted, your Dwarf becomes a rider (see Movement).\\n MOVE QUICKER AND GAIN MANY BENEFICIAL SKILLS. Your warrior becomes a Big ’Un but is granted Breakaway, Deflect, Fear, Iron Will, and Tough Hide.\\n GET +1 ATTACK DIE IN MELEE. The height, reach, and bulk of your cave bear is a big advantage! Also gain the cave bear’s Slash attack on charges (see the trait on page 13).\\n MISSILE BONUS. Normally a jostling mount limits missiles to 1 attack die and a -3 damage feat modifier (Combat Steps 2 and 4 in Combat). Your Beast Rider isn’t penalized hurling 1-handed missiles. Add a windlass to a crossbow and fire it also."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Master",
+      "Name": "Cairn Hunter",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Salvage treasures lost since the Cataclysm.\\n ADD +1 TO ONE LOOT DIE IN THE AFTERMATH. Your Cairn Hunter may turn a loot roll of 3 and 4 into a 4 and 4, earning a roll on the adventure’s Bounty table.\\n Cairn Hunters beyond your first add +1 GP each to your loot total but don’t affect the roll.\\n INCREASE THE VALUE OF A GEM OR JEWELRY. Whether one comes as a Bounty or a discovery, add +1 GP value for each of your Cairn Hunters. \\n HOSTILITY. Dwarves are disgusted by Cairn Hunters, viewing them as grave robbers picking the bones of brothers. Your Cairn Hunter gets the Rancor trait as a result."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Master",
+      "Name": "Dead Shot",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t apply to targets with Conceal, those in cover, or shots into melee.\\n Riders: Doesn’t work while mounted.\\n Fliers: Doesn’t work while flying.",
+      "Description": "Demonstrate unflinching aim and rock solid stability to snipe unsuspecting foes.\\n GET +2 ATTACK DICE FOR A SINGLE MISSILE SHOT. Declare a Dead Shot before rolling any dice. Your Dwarf is unable to charge, use gear or magic prior to the attack.\\n If your Dwarf is normally entitled multiple shots, sacrifice the extras for one chance at a bullseye. Roll at least 3 attack dice—and more when your Dwarf’s Agility is higher or a target is stunned.\\n Combine Dead shot with Thrower or Sharpshooter but not a surprise attack. Your shooter can’t be riding or flying.\\n BECOME A STONE COLD KILLER. On a hit, add +2 to the damage feat."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Death Blow",
+      "Prerequisite": "Thrash",
+      "Restrictions": "Thrash can’t be granted by an artifact; your Dwarf must earn the skill. Deflect negates Death Blow. Doesn’t combine with Assassin, Clobber, Clout, Deadly Aim, Dispatch, Lucky Strike, Tiger Claw, or Vanquish.",
+      "Description": "Wound with increased brutality. Add +2 to your warrior’s injury outcomes in melee (instead of the +1 granted by Thrash)."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Einherjar",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Assassin, Batter, Blade Dancer, Clobber, Clout, Deadly Aim, Gash, Great Blow, or Thump.",
+      "Description": "Einherjar are a fanatical cult who declare members are already dead so must devote their lives as soldiers of Dur. They drill for the final conflict at Ragnarök.\\n MELEE. Ferocity doubles your Einherjar’s Strength score for damage feats. At Strength 3, your Einherjar adds +6 to a damage feat. Apply weapon modifiers afterward so wielding a warhammer 2-handed increases the modifier to +7.\\n FEARLESS. Your Einherjar dresses grimly as possible with body tattoos, adornments, and scars professing his savagery. Einherjar are Fearless, never failing rout feats.\\n FANATIC. Your Einherjar disdains armor, refusing medium or heavy armor. He never fires missiles, finding them tools only for the gentler sex and Binders. Carry a primary melee weapon and one backup—never a missile."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Grudgebearer",
+      "Prerequisite": "",
+      "Restrictions": "Grudgebearer and Overwhelm cancel each other so use normal Strengths and assists only. Strength from the Antler Crown is greater than Grudgebearer.",
+      "Description": "Once an indignity is done, a Dwarf never forgets. He clings to grudges—no matter how old. Stewing anger gives your Grudgebearer added incentive versus the ancestral and modern day adversaries below.\\n Adversaries\\n • Dark Elves • Hobgobelyns\\n • Dragons • Nibelung\\n • Elves/Faeries • Orcs/Ogres\\n • Giants/Ettins • Shapechangers\\n • Gnolls • Trolls\\n • Gobelyns • WitchBorn\\n • Gorgons • Wolven\\n SHOW IRE. In melee, your Grudgebearer’s Strength is considered higher than any adversary, ensuring 2 attack dice. Even ignore the adversary’s assists. Grudgebearer doesn’t affect normal damage feat modifiers.\\n NORMAL STRENGTH APPLIES WHEN AN ADVERSARY ATTACKS YOUR GRUDGEBEARER.\\n RESENTMENT. Your Grudgebearer is Fearless in the face of adversaries so won’t fail a rout feat when charging for a melee attack.\\n BAD BLOOD. Earn double Shadow for wounding adversaries. One knockout counts as two—so a kill is worth +10 Shadow! Double Shadow is the most your Grudgebearer ever earns (even against an adversary with Rancor)."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Hammer",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with the Shield Bash or Shield Rush skills.",
+      "Description": "Only wield a warhammer, longhammer, or throwing hammer as a weapon. Your Hammer won’t carry anything else, even as a backup.\\n QUICKER. Attacks per turn improve as follows.\\n Longhammer 1\\n Warhammer\\n    1-Handed 2\\n    2-handed 1\\n Throwing Hammer 3\\n Exceptional Speed (8+) or the Quickness skill increases these attacks per turn normally.\\n BLOCK WITH A SHIELD. Swing a longhammer, a warhammer 2-handed, or use the Wild Blades skill and still defend with a shield."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Longbeard",
+      "Prerequisite": "Must Attain Level 5",
+      "Restrictions": "Doesn’t affect Psyche when spellcasting.",
+      "Description": "Longbeard used to mean “Wise Dwarf.” Now it just means your Dwarf is a survivor who has endured frost giants, riftstorms, and the WitchBorn.\\n Experience brings wisdom. Longbeard adds +2 to most Psyche feats. This greatly improves your Dwarf’s Resistant rolls and most discoveries won’t escape notice. A Longbeard Runeforge is better at crafting runes of power. Even rout feats improve. With all this going for him, you can be sure your Longbeard is ready for Ragnarök."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Moneychanger",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Barter, Fence, Forager, or Glamour. You can’t trade spells from an Adept’s repertoire.",
+      "Description": "Get the best value when trading. Normally, traded equipment brings only ½ its GP value rounded down. Your Moneychanger gets ½ value rounded up. So a hand ax (1 GP value new) is worth full value when your Moneychanger trades it rather than nothing. A longhammer is worth 3 GP instead of 2 and so forth.\\n GEMS AND JEWELRY. Normally no change is given for traded gems and jewelry; however, your Moneychanger does get change from a trade. Use a 15 GP diamond for an 8 GP purchase and get 7 GP in return.\\n Note: Something must be purchased; the gem or jewelry isn’t converted into gold.\\n MORE MONEYCHANGERS. Bonuses aren’t cumulative so two Moneychangers don’t combine for any benefit."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Master",
+      "Name": "Runeforge",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Runes are symbols invested with spiritual meaning. There are runes for snow and runes for ice. Some stand for legendary heroes like Thrordain and Kharakhul. Each rune is more than a letter; it’s a potent vessel for elemental forces. Your Runeforge embeds this power into armor and weapons."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Trait",
+      "Name": "Slash",
+      "Prerequisite": "",
+      "Restrictions": "Take only your warrior’s attack against opponents with Sidestep.",
+      "Description": "Add a cave bear’s razor claws to your Beast Rider’s attacks.\\n CHARGE! Resolve your Beast Rider’s melee attack followed by the Slash attack. Slash ignores Strength and always uses 2 attack dice— never more and no less. On a hit, roll a damage feat of D6 +6 and an injury outcome if needed. Shadow earned is credited to your Beast Rider.\\n AN OOPS (DOUBLE SKULLS) IS VERY DANGEROUS! Follow these steps and don‘t draw an oops from the discovery app.\\n 1] If Iron Will hasn’t been used this adventure, apply it now to Dwarf and cave bear. Neither are injured. Otherwise, go to step 2.\\n 2] Replace your rider’s model with the one you use for your Dwarf on foot.\\n 3] Knock your Dwarf down and roll an injury outcome (Combat Step 5).\\n 4] If injured but not wounded, your Dwarf may recover. The cave bear bolts off the battlemap for the adventure but reclaim it afterward unharmed. For a wound, see next.\\n WOUNDED RIDERS. Draw 1 wound result to apply to both your Dwarf and cave bear. Treat your Dwarf normally (Combat Step 6). Vigor only applies to your Dwarf.\\n A cave bear shakes off a knockout. Heal a maimed or War Wound result or it is horribly crippled and must be put down. Bind Wounds, Herbal Lore, dragon blood, an Elixir of Vigor, or the Vonnoh’s Touch spell can cure it. The bear is too gravely hurt by a kill to be saved.\\n Remove your wounded rider from the battlemap unless being Feasted on."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Skirmisher",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Dart, Endurance, Longstrider, Pounce, or Tireless.\\n Riders: Doesn’t affect a mount’s gait.",
+      "Description": "Travel quicker on foot to harass enemies plus become more adept with a shield.\\n ZIP +2 EXTRA PACES ON MOVES AND SPRINTS (even wearing bulky armor). This extra burst doesn’t apply to charges.\\n USE A SHIELD WITH 2-HANDED WEAPONS. Fire a crossbow, wield Wild Blades, or swing a longhammer and still benefit from a shield."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Thump",
+      "Prerequisite": "Any Blunt Weapon",
+      "Restrictions": "Doesn’t combine with Assassin, Blade Dancer, Einherjar, or Great Blow.",
+      "Description": "Thump’s pounding attack adds +2 to damage afeats with any blunt weapon. Blunt weapons are ones like a warhammer or throwing hammer.\\n Add even more Thump by combining this skill with Batter, Clobber, or Mighty."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Basic",
+      "Name": "Unfettered",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t help with skills requiring light armor like Einherjar or Escape.",
+      "Description": "Your Dwarf is as comfortable in armor as his own skin. He never suffers a Speed Penalty from armor. Unfettered changes the armor’s Speed Penalty to 0.\\n BEAST RIDERS. Unfettered removes your warrior’s Speed Penalty from the cave bear but doesn’t affect a Gait Penalty caused by barding.\\n ADEPTS. Normally the Speed Penalty for an Adept is doubled when wearing armor. Unfettered reduces the penalty to 0 for your Hammer of Dur."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Trait",
+      "Name": "Vigor",
+      "Prerequisite": "",
+      "Restrictions": "Warrior must be a mortal, not a Faerie.",
+      "Description": "Walk away from wounds that should crumple a frost giant. When your Dwarf is wounded, redraw the wound once—even a kill! The outcome of this second wound must be accepted, even on the rare occasion it’s worse.\\n Healing skills, Dragon Blood, an Elixir of Vigor, or the Vonnoh’s Touch spell can still be applied immediately if the wound result is no better."
+    },
+    {
+      "Category": "Dwarf",
+      "Type": "Master",
+      "Name": "Wild Blades",
+      "Prerequisite": "",
+      "Restrictions": "Riders: Can’t use while mounted.\\n Fliers: Flying only allows 1 attack per turn so Wild Blades is ineffective.\\n Restrictions: An opponent with Sidestep limits Wild Blades to 1 attack. Wild Blades denies use of a shield though Skirmisher or Hammer lifts the restriction.",
+      "Description": "Wield a weapon in each hand with a chaotic desire to splatter the blood of foes.\\n THE WEAPONS. Wield two hand axes, two battleaxes, two war axes, or two warhammers.\\n ATTACKS PER TURN. Double the attacks your Dwarf normally takes. That’s 2 attacks with a pair of battleaxes, or up to 4 attacks with war axes. Exceptional Speed (8+) or the Quickness skill doesn’t increase this total.\\n A Speed score under 6 limits your Dwarf to 2 attacks each turn no matter the weapon type.\\n MAKE ONLY 1 ATTACK ON A CHARGE.\\n GET ATTACK DICE NORMALLY. Resolve each attack, one after the other like any warrior with multiple attacks (Combat Step 3). An oops ends your Dwarf’s turn."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Adept",
+      "Prerequisite": "",
+      "Restrictions": "Most Adepts can’t cast spells while mounted or flying. Elven Spellsingers, Dark Elven Morrigans, or Wolven Moon Dancers all can cast from a mount or altitude. Monks with Thundercaster cast spells from mounts too.",
+      "Description": "Magical energy swirls about us like invisible wind currents. It surrounds and influences us all but most don’t recognize its true nature. Your Adept is an apprentice spellcaster who invokes this unseen energy to work his will.\\n Your Adept has taken the first crude steps to learning spells for a repertoire. There are five schools of magic: Earth, Fire, Sky & Water, Death, and Divine. The school your Adept learns from is listed in brackets on your war clan’s skill list. A Hammer of Dur is listed as “Adept [Divine].”\\n BUY SPELL COMPONENTS AND LEARN AT LEAST ONE SPELL TO BEGIN CASTING. Success hinges on how masterfully your Adept’s Psyche is brought to bear. War Mage Diary from WitchBorn.com has complete details."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Amputee",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A wound leaves your warrior’s arm so horribly mangled it must be removed. The loss limits him to 1-handed weapons. Forget greatswords and bows. Use of shields, bracers, bucklers, or 2-handed skills like Blades are prohibited (unless a specific wound outfits your warrior with a hook hand). Spellcasting isn’t possible in any case.\\n Earn the Resilient skill to overcome this handicap and erase the negative trait."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Animosity",
+      "Prerequisite": "",
+      "Restrictions": "No spell or skill erases Animosity.",
+      "Description": "Orcs are known for rape and pillage. Guild are assumed to be assassins and thugs. None fit comfortably within “society.” When approaching strangers this hostility plays out in negative ways.\\n REACTION CHECKS. Many discoveries feature a character who relays important information. A note at the top says, “A discoverer with Animosity or Rancor must make a reaction check.”\\n Before this discovery is read, roll D6 to determine how hostile the character feels toward your discoverer.\\n D6 Reaction Check\\n 1 The character attacks until he or your discoverer is wounded. No Shadow is awarded.\\n 2–3 The character runs off. No Shadow is awarded.\\n 4–6 The character is distrustful but the discovery plays out normally."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Expert",
+      "Name": "Aware",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Your warrior is attuned to surroundings in a way others aren’t. He won’t sit with his back to a door. He sleeps with one eye open, trusts no one, and knows every avenue of escape.\\n Each adventure, the first damage feat rolled against your warrior is changed to “0” and has no effect. After, lightly mark a “dot” next to Aware on your roster. The skill can’t be used again until next adventure. You can’t save this advantage until “you really need it.” Use it the very first time you’re hit or knocked down. \\nSome attacks, magick, and spells skip a damage feat. Aware can’t protect against these but can still be used later in the adventure."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Basic",
+      "Name": "Batter",
+      "Prerequisite": "Any Blunt Weapon",
+      "Restrictions": "Doesn’t combine with Assassin, Einherjar, or Great Blow.",
+      "Description": "This punishing attack adds +1 to damage feats with any blunt weapon.\\n MAKE IT HURT MORE. Batter combines with Clobber, Divine Grace, Lucky Strike, Mighty, or Thump."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Master",
+      "Name": "Battle Mage",
+      "Prerequisite": "Must be an Adept",
+      "Restrictions": "A target in cover limits your Adept to one D6 with a -2 modifier to the Psyche feat. A “blind Teleport spell” with no line of sight is also limited to one D6 with the -2 modifier.",
+      "Description": "Your Adept is no simple bookworm poring over tomes in the catacombs of an ancient library. He’s eager to wade into a skirmish and get a little bloodied. He focuses his entire will to cast successful spells.\\n ROLL 2D6 FOR SPELLCASTING. Apply the best die to the Psyche feat.\\n Example: A barking gnoll threatens to rob you. You answer with a Lightning Strike and roll 2D6 for the Psyche feat, getting a 1 and 5. Ignore the oops; take the 5. The gnoll brigand gets no mercy!"
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Battle Scar",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A wound flays your warrior badly; the flesh on his chest and back hangs in torn flaps that look a little like “Sloppy Joe.” Battle Scar causes such discomfort your warrior can’t wear armor of any sort.\\n Take the Resilient skill to overcome the Battle Scar and he can wear armor again."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Beansidhe Wail",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A Beansidhe Wail (pronounced BAN-shee) is the mournful cry of an Elf who died from treachery. A Beansidhe is incapable of moving on to the Otherworld without being avenged. The Beansidhe appears as he did in life though hazy, like someone seen through a fogged window.\\n The keening Beansidhe Wail unleashes all the frustration, fear, hatred, and sadness bottled within. Those within long range must make a rout feat. If a victim’s feat fails, he isn’t shaken. Instead, the victim is wounded.\\n Beansidhe Wail is used only once per adventure by each Beansidhe."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Big ’Un",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Massive creatures like a Dryad, Ogre, Oni, or a monstrous plains wyvern benefit from abnormally high Strength. Others like mounted Paladins have improved mobility.\\n CAN’T BE PUSHED AROUND. Bulk makes it impossible to drive your Big ’Un backward with Bull Rush, Mind Thrust, or a shove (Finer Points, Combat).\\n LESS MANEUVERABLE. Mount your Big ’Un on an oversized round base of 40 mm or larger.\\n HIDING ISN’T POSSIBLE. Everyone sees the big guy.\\n MOST ARMOR WON’T FIT. That little suit of quilted armor isn’t squeezing over your Oni’s gut. Exceptions are a breastplate or armor specifically sized for Big ’Uns. Guild, Orcs, and Wolven have access to Big ’Un-sized armor. Many mounts have barding. Check your equipment list to be sure.\\n CAN’T USE 2-HANDED MISSILES. Big ’Uns are all thumbs when it comes to bows, crossbows, and the like.\\n NO MOUNTS. A warhorse isn’t letting an Ogre ride, no matter how many sugar cubes are involved in the bribe."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Bind Wounds",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t heal Faeries.",
+      "Description": "Prevent a lingering wound or amputation with first aid and crude field surgery.\\n BIND WOUNDS IN THE AFTERMATH. Heal 1 comrade from a knockout, maimed, or War Wound result. The wounded comrade is 100% recovered for next adventure. Bind Wounds also works on horses, war dogs, and other beasts.\\n LIMITATIONS. A kill or lingering wound from a previous adventure can’t be healed. Your warrior can’t heal himself. Bind Wounds doesn’t return stolen items lost to a knockout—consider the stuff gone."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Expert",
+      "Name": "Blades",
+      "Prerequisite": "",
+      "Restrictions": "An opponent with Sidestep negates all but the first attack. Your warrior can’t carry a shield; bracers or a buckler are acceptable. Doesn’t combine with other 2-handed skills or weapons, Bull Rush, Horns, Nari, or Onslaught.\\n Riders/Fliers: Can’t be used while mounted or flying.",
+      "Description": "The Javanar sword priest Kelinen pioneered this two-weapon style of graceful flourishes, whirling parries, and fast strikes.\\n THE WEAPONS. Your warrior isn’t limited to bladed weapons. Pick a primary melee weapon, provided it’s wielded 1-handed like a longsword, spear, or warhammer. Then pick a lighter and swifter secondary weapon allowing more attacks per turn. This might be a short sword, horseman’s mace, or dagger. Weapons can’t include natural ones like a claw or fist.\\n THE ATTACKS. Attack first with the primary weapon followed by 1 bonus attack with the second. Figure attack dice normally for each.\\n MORE ATTACKS. Many primary weapons only allow 1 attack but your warrior is entitled to more if exceptionally fast (8 Speed or more), has Quickness, or uses a weapon like a scimitar. Resolve all the attacks with the primary weapon before swinging the secondary.\\n The secondary weapon never gets more than 1 attack per turn.\\n CHARGES. Attack once with each weapon."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Expert",
+      "Name": "Blades Master",
+      "Prerequisite": "Blades",
+      "Restrictions": "An opponent with Sidestep negates all but the first attack. Your warrior can’t carry a shield; bracers or a buckler are acceptable. Doesn’t combine with other 2-handed skills or weapons, Bull Rush, Horns, Nari, or Onslaught.\\n Riders/Fliers: Can’t be used while mounted or flying.",
+      "Description": "No longer a student, your warrior’s secondary weapon is no longer restricted provided it’s wielded 1-handed. Pair two Adamant Blades or a mace with a morning star in melee. The number of attacks per turn is the same as with Blades and the secondary weapon is still limited to 1 attack per turn."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Bone",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Blade Barrier, Gird, Shield, Shield Bash, Shield Rush, or Tough Hide.",
+      "Description": "Orcs harden armor with bone and blood magic. WitchBorn with torn flesh and reanimated skeletons often have exposed bones. All of these deflect attacks.\\n Bone blocks any number of “shield hits” from melee and missile attacks each round. Bone even protects when the creature is stunned.\\n Bone doesn’t restrict use of 2-handed weapons or skills. Dirty Tricks and Zero In have no effect versus Bone."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Basic",
+      "Name": "Bow Rider",
+      "Prerequisite": "Saddle and Mount",
+      "Restrictions": "",
+      "Description": "Time missile shots mid-stride when the streaking mount’s feet leave the ground.\\n MISSILES. Normally, a jostling mount limits your rider to 1 attack die and penalizes damage feats -3 (Combat Steps 2 and 4, Combat). Bow Rider removes these penalties.\\n WEAPONS. Your Bow Rider must fire a short bow, composite bow, Pixie bow, or toss a 1-handed missile like a javelin. Buy a windlass to fire a crossbow too.\\n VEHICLES. Your Bow Rider doesn’t need a saddle or mount to fire missiles from a chariot, rowboat, or wagon."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Basic",
+      "Name": "Brawler",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Tiger Claw.",
+      "Description": "Sometimes survival isn’t about a weapon you buy; it’s about one that’s always with you. Your Brawler’s bare-knuckle attack can do as much to mess up an enemy as any longsword.\\n PUNCH RAPID-FIRE. Fist attacks increase from 1 to 3 per turn.\\n PACK MORE WALLOP. The damage feat modifier from fists improves from -3 to -1. Adamant Armor, chainmail, dragonscale, gauntlets, scale armor, or platemail gives your Brawler mailed fists, improving the damage modifier to +0."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Breakaway",
+      "Prerequisite": "",
+      "Restrictions": "Breakaway is for getaways. Your rider can’t Breakaway to attack someone else the same turn.",
+      "Description": "If you’re big enough, no one tells you where you can or can’t go. Breakaway is standard for mounts and monstrous critters.\\n AUTOMATICALLY EVADE. Plenty of muscle allows an evade attempt without an Agility feat or being contested. Even the Engage skill can’t stop Breakaway.\\n MAKE WAY. Sometimes a creature wants to Breakaway but there’s no room for its base. Those next to the creature are forced to clear space by its sheer bulk."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Expert",
+      "Name": "Bull Rush",
+      "Prerequisite": "",
+      "Restrictions": "A Big ’Un can’t be driven back. Doesn’t combine with Blades, Blades Master, Horns, Shield Bash, or Shield Rush.\\n Riders: Doesn’t work while mounted.",
+      "Description": "Become an unstoppable juggernaut on a melee charge. Your warrior barrels forward gaining +2 attack die from momentum.\\n A successful hit also drives your opponent backward 1 pace. You choose where. This is very advantageous when the opponent is perched on the lip of a steep cliff. Say goodnight, Francis!"
+    },
+    {
+      "Category": "Speed",
+      "Type": "Basic",
+      "Name": "Cat’s Feet",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Your warrior can make dynamic leaps and instantly regain his feet as graceful as a cat after a fall.\\nLEAP AUTOMATICALLY. No leap check is needed for leaps equal to your warrior’s charge distance (see Movement). Longer leaps still require a successful push.\\nINSTANT UP. When knocked down, your warrior instantly regains his feet even if injured. His turn still ends there normally."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Master",
+      "Name": "Champion",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A Champion runs into the fray despite the danger. He has no quit. He’s tough. Mean. And a hero to look up to.\\nChampion adds +1 to your warrior’s Strength."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Basic",
+      "Name": "Cleave",
+      "Prerequisite": "Blunt or 2-Handed Melee Weapon, OR must be a Big ’Un (but not a rider)",
+      "Restrictions": "Nimble negates Cleave. A garrote and all shields are blunt but can’t Cleave. Doesn’t combine with Butterfly Kick, Demure, Disarm, Sword Art, or Whirlwind.",
+      "Description": "Dislodge or dent armor enough to leave a vulnerable gap. Or render a weapon useless with a hard strike\\n.DECLARE THE ARMOR OR WEAPON TARGETED BEFORE ROLLING A MELEE ATTACK. A successful hit puts the item out of action for the adventure. A hit versus a Jarl in dragonscale breaks a strap holding his chestplate in place and suddenly eliminates the +7 Defense Bonus! Snap the pesky Elven Warden’s bowstring or break the tip off a Norn’s boar spear. An opponent with Fend can make you re-roll a successful hit targeted at his weapon once.\\nROLL NO DAMAGE FEAT OR INJURY OUTCOME.\\nMULTIPLE ATTACKS. Cleave armor with one attack and target the helpless foe’s underbelly with the next.\\nREPAIRS ARE FREE IN THE AFTERMATH. Bend metal back into place, fix straps, replace bowstrings, or adjust grips and fastenings to make the damaged item serviceable again."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Basic",
+      "Name": "Climb",
+      "Prerequisite": "",
+      "Restrictions": "Can’t wear medium or heavy armor. Lose the platemail!\\n Riders: Doesn’t work unless the mount has Climb.",
+      "Description": "Scale sheer cliffs, tumbled walls, and palisades without an Agility feat. (Climbing rules are in Movement).\\nA Climb doesn’t have to finish in 1 turn. Cling to sheer surfaces and finish on a subsequent turn. No attacks, magick, or spells can be used while climbing."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Expert",
+      "Name": "Clobber",
+      "Prerequisite": "Any Blunt Weapon",
+      "Restrictions": "Deflect cancels the +1 injury outcome modifier. Clobber doesn’t combine with Assassin, Clout, Deadly Aim, Death Blow, Dispatch, Einherjar, Great Blow, Lucky Strike, Thrash, Tiger Claw, or Vanquish.",
+      "Description": "Land blows with a resounding “THWACK!” Add +1 to each damage feat and injury outcome with any blunt weapon.\\nClobber combines with Batter, Divine Grace, Lucky Strike, Mighty, and Thump."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Command",
+      "Prerequisite": "",
+      "Restrictions": "Your leader can only use Command 1 time per round.",
+      "Description": "Sometimes leadership is about bravery. Sometimes it’s about being a hero. But much of the time it’s about guidance and letting someone else enjoy the glory.\\nGIVE A COMRADE A RE-ROLL. Interrupt when your leader is within short range of the comrade and doesn’t have a condition marker.\\nRe-roll all the dice from the comrade’s last attack, feat, or injury outcome—even an oops. Goodbye, double skulls!\\nAfter the re-roll, mark your leader with a chit indicating his turn is done. If already marked, give him a strike last condition marker instead. Your leader can’t ever use Command on himself.\\nTHREE IN A ROW. Using Command is a turn AND still doesn’t let your war clan have more than 3 in a row. If a third warrior in a row needs Command, he’s out of luck.\\nA COMRADE WITH FIRST STRIKE CAN’T BENEFIT FROM COMMAND. Interrupts never work during the First Strike phase."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Basic",
+      "Name": "Conceal",
+      "Prerequisite": "",
+      "Restrictions": "Wolven with Instinct target Concealed warriors normally. Conceal doesn’t work while flying, riding, or Levitating.",
+      "Description": "It’s common sense really. Crouch low and keep natural obstructions like bushes, long grass, rocks, and brush between you and shooters. Use a Conceal template to alert opposing players your warrior has the skill.\\nCAN’T SHOOT ME! An opponent is limited to 1 attack die shooting at your warrior. Even an Elf with higher Agility, a Guild Executioner with surprise, or a Dwarven Sharpshooter only gets 1 attack die.\\nOPPONENTS’ DAMAGE FEATS ARE NOT PENALIZED. PENALIZE A SPELLCASTER’S PSYCHE FEAT -2 WHEN TARGETING YOUR WARRIOR. Automatic magick and spells like Entangle require an unpenalized Psyche feat.\\nMoon Glow and Starfire negate Conceal after a successful Psyche feat as does the Faerie Light spell if cast with a -2 Psyche penalty.\\nTARGET RADIUS. When a siege weapon or spell targets a comrade, a large target radius may catch your warrior too. Conceal doesn’t protect from this. It’s just a “lucky shot.”"
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Constrict",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A successful melee attack from a giant snake, naga, or couatl traps a victim in tight coils. Skip the damage feat and roll an injury outcome.\\nIf not wounded right away, the victim automatically suffers an injury outcome on the creature’s subsequent turns until the victim is wounded or escapes.\\nTHE VICTIM. Wriggle free with a feat of Strength penalized -3. Or pray for deliverance from a comrade. Any injury to the Constricting creature loosens the coils enough for the victim to slip free."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Coward",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A traumatic wound, a timid mount, a Curse, or surrender (Finer Points, Combat) can confer Coward. A Coward’s first instinct is to run so suffers a -3 modifier on rout feats.\\nLOST CONFIDENCE. Coward takes precedence over Einherjar, Fear, Fearless, Terror, or Valor. Earn the Resilient skill to erase the trait. \\nRiders: Coward is a common trait of coursers, palfreys, and ponies. A warrior with Einherjar, Fearless, or Valor can calm and overcome a Cowardly mount. In the Yellow Belly example the Paladin can overcome Coward by buying a holy mantle."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Craven",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "The most contemptible warriors are Cowards who surrender in an adventure or those who try to cheat by having their warriors jump into a fast-flowing river to end an adventure early. Both become Craven and are covered under Surrender in the Finer Points of Combat.\\nCHICKEN! Craven warriors are Cowards who are already penalized -3 on rout feats. Craven means on a failed rout feat, your warrior automatically routs off the battlemap without being shaken first.\\nCraven takes precedence over Einherjar, Fear, Fearless, Terror, or Valor. Earn the Resilient skill to erase the trait. Your warrior needs to earn Resilient again to no longer be a Coward."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Basic",
+      "Name": "Cutpurse",
+      "Prerequisite": "",
+      "Restrictions": "Can’t wear medium or heavy armor. Berserkers can’t earn Cutpurse.\\nRiders: Cutpurse doesn’t work while mounted.\\nFliers: Your flier can rob a victim on foot.",
+      "Description": "Your Cutpurse is gifted with deft hands and an eye for quality. Use a turn to brush against a victim, grab a random item, and speed away.\\nSNEAK THIEF. Get the Animosity trait for earning Cutpurse if your warrior doesn’t already have Animosity or Rancor.\\nGET CLOSE. Move your Cutpurse’s full movement (even push) to reach a victim. Cutpurse relies on misdirection and “accidentally” brushing past an unaware victim. The victim must be on foot or knocked down. It also doesn’t work when your Cutpurse starts within reach of the victim.\\nSTEAL 1 ITEM OF GEAR. Roll D6 to steal the item in the victim’s corresponding gear slot with some conditions:\\n• A victim without gear or who is Secure has nothing to take\\n• Shift down when a gear slot is empty, the item is worthless (0 GP), or the item description states it can’t be stolen\\n• Shift up to slot 1 when there’s nothing below (even slot 7 and 8 are empty)\\n• Your Cutpurse must take a Cursed item even though it’s 0 GP (it is a Curse after all!)\\n• Your Cutpurse must have an empty gear slot to store the stolen prize.\\nFINISH STRONG. Evade automatically to finish your Cutpurse’s move and mark him with a chit. Even push to get farther away.\\nRETRIBUTION. A victim isn’t aware of the robbery. Without Cutpurse or Mend, the victim has no way to get the stuff back—except bash in your Cutpurse’s skull as payback.\\nSTRATEGY. In Enter Perdition and Wailing Citadel, the airship cargo or wedding gift can’t be hidden away or Secure—these items are carried in both hands. Cutpurse is a handy way to steal these items; no D6 roll is required."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Curse",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A Cursed artifact compels your warrior to protect it and punishes a thief who steals it. When it’s unclear which of your warriors found a Cursed item, roll D66. (Your warriors must be numbered 1–12).\\nD66 Warrior D66 Warrior\\n11–13 1 41–43 7\\n14–16 2 44–46 8\\n21–23 3 51–53 9\\n24–26 4 54–56 10\\n31–33 5 61–63 11\\n34–36 6 64–66 12\\nIf you don’t have a warrior with this number, re-roll until getting one who does.\\nTHE TOLL. A Curse comes with a variety of ill effects like vanity, misfortune, stupidity, weakness, blood lust, or vulnerability. Each artifact description specifies the exact nature of the Curse.\\nCURSE COMES WITH A SELFISH DESIRE TO POSSESS THE ITEM. If it’s armor, your warrior must wear it. If it’s an amulet, he hugs it close. If it’s a weapon, he wields it exclusively, ignoring all others (even preferring it to casting magick or spells).\\nCircumvent the compulsion by removing the Curse with a Purify spell or destroying the item with a Shatter spell. Otherwise, your warrior is Cursed for life. Enjoy your “precious.”\\nEVEN DEATH DOESN’T END A CURSE. A random comrade becomes jealous, picks the item up, and is filled by the same compulsion. If the item is stolen, the thief gets the Curse as well. While the thief has the item, your warrior never ceases trying to get it back, even desperately earning Cutpurse as his next skill in hopes of procuring the item again."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Basic",
+      "Name": "Dart",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Endurance, Longstrider, or Skirmisher.\\nRiders/Fliers: Dart doesn’t affect gait or velocity.",
+      "Description": "Some warriors start quick. Others start slow but have the stamina to move farther each turn.\\nZip +3 extra paces on moves and sprints. This extra burst doesn’t apply to charges.\\nExample: Heavy bulk limits your Reaver to 5-pace moves each turn. He needs to move fast but can’t risk sprinting and striking last. With Dart, he moves 8 paces (instead of 5) and can push up to twice more for a movement of 10—the same distance as if he had sprinted without Dart."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Expert",
+      "Name": "Deadly Aim",
+      "Prerequisite": "",
+      "Restrictions": "Can’t re-roll an injury outcome if the opponent has Deflect. Doesn’t combine with Assassin, Clobber, Clout, Death Blow, Dispatch, Einherjar, Hind Claws, Lucky Strike, Thrash, Tiger Claw, or Vanquish.",
+      "Description": "Aim for chinks in armor and deliver a vicious twist as your blade sinks into the flesh underneath.\\nRE-ROLL EITHER A DAMAGE FEAT OR INJURY OUTCOME IN MELEE. Roll the damage feat first. If unsuccessful, use Deadly Aim. If the damage feat succeeds, save Deadly Aim for a poor roll on the injury outcome.\\nMULTIPLE ATTACKS. Apply Deadly Aim to every melee attack."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Master",
+      "Name": "Death Mage",
+      "Prerequisite": "Must be a Druid, Shaman, or Monk",
+      "Restrictions": "",
+      "Description": "Cause darkness and instill fear in opponents. Cast powerful hexes and summon familiars to fight at your Adept’s whim.\\nSpirits of the dead have knowledge of future events and a power over the mortal world your Death Mage compels them to share. Your Adept can add Death spells of up to Fourth Magnitude to his repertoire in the same way he earns spells from his original school.\\nThere’s a stigma to learning the dark arts. Death Mage conjures up visions of evil, twisted sorcerers, and taboo rituals so your Adept gets the Rancor trait if he doesn’t have it already."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Deepsight",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Whether in a cavern deep beneath Perdition or during a moonless night out on the plain, Deepsight allows a creature to see as well in absolute darkness as a human sees in daylight.\\nRiders: Warrior and mount must both have Deepsight to gain the advantage."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Basic",
+      "Name": "Deflect",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Bend like a sapling in a windstorm against a killing stroke.\\nDeflect prevents an opponent from using skill modifiers and re-rolls against your warrior for an injury outcome. The opponent can roll one D6 and nothing else.\\nSKILLS NEGATED\\n• Assassin • Clobber • Clout\\n• Deadly Aim • Death Blow • Dispatch\\n• Keen Aim • Kill Shot • Lucky Strike\\n• Thrash • Tiger Claw • Vanquish\\nDeflect also prevents injury modifiers from:\\n• Weapons • Magick • Poison\\n• Special Ammo • Spells\\nDeflect even affects spells that automatically stun or wound like Flame Strike. The mage is forced to roll an injury outcome instead."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Expert",
+      "Name": "Diehard",
+      "Prerequisite": "",
+      "Restrictions": "Can’t interrupt when your Diehard has a condition marker. Diehard doesn’t combine with Relentless, Self Control, or Tireless.\\nRiders: The mount must be a Diehard too.\\nFliers: Stay aloft while stunned rather than automatically crashing.",
+      "Description": "The big disadvantage of any condition marker is striking last. An opponent has time to finish off your warrior before he recovers.\\nNOTHING STOPS YOUR DIEHARD. Ignore pain and don’t strike last with a condition marker. When disarmed, shaken, staggered, stunned, or just marked by an ordinary strike last condition marker, your Diehard can still take a turn as soon as the marshal draws your war clan’s chit.\\nRECOVER NORMALLY. Just because your warrior avoids striking last, Diehard doesn’t heal him. Your disarmed Diehard picks up the weapon or a stunned marker becomes staggered. But if shaken, staggered, or striking last, your Diehard recovers to take a normal turn."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Dirty Tricks",
+      "Prerequisite": "Animosity or Rancor",
+      "Restrictions": "Bone and Tough Hide still block normally. Nimble negates Dirty Tricks. Doesn’t combine with Butterfly Kick, Sword Art, or Whirlwind.",
+      "Description": "There are hundreds of ways to cheat. There’s a headbutt to break a nose. A finger gouge in an eye. Open-handed slaps to the ears. Blinding sand in the face. And everyone’s favorite, the kick to the crotch.\\nDirty Tricks are unexpected. Your warrior causesna distraction during a melee attack so an opponent can’t defend with the Blade Barrier, Gird, Shield, Shield Rush, Fend, or Parry skill.\\nSo go bite someone’s ear off!"
+    },
+    {
+      "Category": "Defense",
+      "Type": "Expert",
+      "Name": "Disarm",
+      "Prerequisite": "",
+      "Restrictions": "Nimble negates Disarm. Doesn’t combine with Butterfly Kick, Cleave, Sword Art, or Whirlwind.",
+      "Description": "Knock a weapon from your opponent’s hands with any melee or missile attack.\\nDISARM WITH A CRITICAL HIT. Mark the victim with a disarmed condition marker and roll a normal damage feat. A shield hit or parry hit doesn’t Disarm but is still treated normally. Victims can only have 1 disarmed condition marker at a time even when they have lots of weapons.\\nDISARM NATURAL WEAPONS TOO. The opponent gets a disarmed condition marker after a critical hit, angrily rubbing a paw or hand in pain.\\nDROP THAT! Disarm anyone carrying the airship cargo in Enter Perdition or carrying a wedding gift in Wailing Citadel. The dislodged item is placed on the ground next to the victim and free for anyone to pick up. The victim gets a disarmed condition marker too."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Expert",
+      "Name": "Divert",
+      "Prerequisite": "A Melee Weapon (but never a shield or natural weapon like a fist or claw)",
+      "Restrictions": "Doesn’t combine with Mantis Stance.\\nRiders/Fliers: Doesn’t work mounted or flying.",
+      "Description": "Quickly slap aside melee thrusts and missile shots so it’s harder to contact a vital area.\\nADD +2 DEFENSE AGAINST MELEE AND MISSILE ATTACKS. The +2 bonus is lost when your warrior has any condition marker until recovering.\\nMAGICK, SPELLS, AND ZERO IN IGNORE THE BONUS. Your warrior can’t flick aside Eldritch Fire or a Flame Strike. Opponents with the Zero In skill can also sneak in shots under your warrior’s guard so the +2 bonus is lost."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Drain Life",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "The touch of a barrow wight or succubus drinks all warmth from your body. Your skin pales, lips turn blue, and your eyes go glassy. In the final moments, you slip into a coma just before the last spark dies out.\\nDRAIN LIFE. A creature must roll a successful attack and damage feat. The injury outcome doesn’t stagger, stun, or wound—instead it drains D6 Shadow points. On a natural 6, your opponent rolls D6 again and adds to the total (and he continues to roll again for every 6). Once more than half a victim’s Shadow is drained, he suffers a wound.\\nCONSEQUENCES. No skills are lost but now the victim must re-earn drained Shadow, taking longer to reach next level.\\nCOMPLETELY DRAINED. Should a victim fall below 0 Shadow, his icy corpse can’t be saved even by healing skills or magic. The victim dies and becomes WitchBorn."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Basic",
+      "Name": "Eagle Eyes",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Raptor-like vision improves your warrior’s aim at opponents at the longest ranges.\\nSHOOT MISSILES UNPENALIZED BY RANGE. Ignore the Agility feat modifier of -1 or -2 attack dice at long and very long range.\\nRANGE DOESN’T PENALIZE DAMAGE FEATS. Also ignore the damage feat modifier of -1 or -2 at long and very long range."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Expert",
+      "Name": "Earth Mage",
+      "Prerequisite": "Must be a Shadow Mage, Shaman, or Monk",
+      "Restrictions": "",
+      "Description": "Control plants, emulate the traits of animals, manipulate wood, summon creatures, and shake the very earth.\\nYour Adept draws on the living magic that eddies and flows like the waves of the ocean throughout Perdition to connect all living things. Add Earth spells of up to Fourth Magnitude to his repertoire in the same way he earns spells from his original school."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Embolden",
+      "Prerequisite": "Must have Einherjar, Fear, Fearless, Terror, or Valor",
+      "Restrictions": "Has no effect on rout feats triggered by a wound or the Dread spell.",
+      "Description": "Bravery is contagious. Your warrior’s selfassurance lends confidence to comrades versus frightening foes.\\nCOMRADES IGNORE FEARSOME, FEAR, OR TERROR WITHIN SHORT RANGE OF YOUR WARRIOR. They don’t roll rout feats to attack or approach an unnerving creature. Melee attacks are not even penalized when attacking a Gruesome Orc."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Master",
+      "Name": "Endurance",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t work when weather or terrain prohibits sprinting. Doesn’t combine with Dart, Longstrider, or Skirmisher.",
+      "Description": "Food is scarce in Perdition. Your warrior learned to doggedly chase prey, waiting for the animal to tire for an easy kill.\\nOUTRUN ALMOST ANY FOE WITHOUT FATIGUE. Your warrior sprints without getting a strike last condition marker. Even better, add +3 paces to the distance sprinted each turn.\\nBULKY ARMOR DOESN’T SLOW YOU MUCH. If chainmail drops your warrior’s Speed to 5, still sprint 13 paces every turn (Speed 5 x 2 + 3)."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Basic",
+      "Name": "Engage",
+      "Prerequisite": "",
+      "Restrictions": "Nimble negates Engage.",
+      "Description": "Gain the advantage with clinches and grappling moves. Bypass the Blade Barrier, Bone, Gird, Shield, Shield Rush, or Tough Hide skills that normally block shield hits in melee. Ignore the Defense Bonus from a Shield Wall too.\\nTRIP EVADING OPPONENTS. Penalize an opponent’s evade attempt -2. Your warrior with Engage can contest Elude, Escape, or Withdraw; the opponent must roll an Agility feat but isn’t penalized. Engage has no effect against Breakaway, Leap, or Seep.\\nSIDESTEPPING OPPONENTS. Tie up the opponent for all your warrior’s melee attacks each turn."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Expert",
+      "Name": "Escape",
+      "Prerequisite": "",
+      "Restrictions": "Can’t wear armor bulkier than light.",
+      "Description": "Avoid punches and duck away from trouble.\\nADD +1 TO YOUR WARRIOR’S DEFENSE SCORE. Great footwork allows your warrior to dodge and weave.\\nEVADE WITH NO AGILITY FEAT. The attempt can’t be contested either. If the opponent has Engage, your warrior must roll an Agility feat but isn’t penalized."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Faint-Hearted",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "A traumatic wound makes your warrior timid. He can’t intentionally move within reach of an opponent and evades from melee rather than attacking. He relies on missiles, magick, or spells for combat. He’s also incapable of using the Cutpurse skill.\\nEarn the Resilient skill to erase Faint- Heartedness."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Fear",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "No emotion drains your mind of power quicker than Fear. A chill runs through you. Your heart beats faster. Your breathing comes in quickbursts. It’s time for fight or flight.\\nUNNERVING CREATURES. Approaching or attacking a creature with Fear requires a rout feat to decide whether your warrior has the stones to follow through or freezes in fright.\\nSEE IF YOU’RE UNNERVED. It’s the duty of the opposing player to point out the creature has Fear. Roll a rout feat before your warrior…\\n…moves within reach of the creature\\n…charges the creature\\n… targets the creature with a missile, magick, spell, or Cutpurse.\\nSUCCESS. Your warrior takes a normal turn, getting all his normal attacks. Also, once your warrior is within reach of the creature, no further feats are required.\\nFAILURE. Your warrior’s turn ends. Mark him with a shaken condition marker and a chit.\\nPROTECTION. Einherjar, Fearless, Valor, and WitchBorn grant immunity to Fear. Those with Fear or Terror are also immune. Who’s scarier than one of them?"
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Fearless",
+      "Prerequisite": "",
+      "Restrictions": "Even Fearless warriors may be frightened by the Dread spell.",
+      "Description": "MASTER SUPERSTITION AND PANIC. Your warrior is unaffected when approaching or targeting creatures with Fearsome, Fear, or Terror.\\nKEEP EMOTIONS IN CHECK. Your warrior never routs when a comrade is wounded.\\nCOWARDLY MOUNTS. Coax the creature into battle without suffering any penalty."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Fearsome",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "MAKE OPPONENTS APPREHENSIVE ABOUT ATTACKING. Let the opposing player know your warrior is Fearsome. The opposing warrior rolls a rout feat with a +3 modifier before…\\n…moving within reach\\n…charging\\n… targeting your warrior with a missile, magick, spell, or Cutpurse.\\nSUCCESS. The opponent takes a turn, getting all his normal attacks. Also, once within reach of your warrior, no further feats are required.\\nFAILURE. Your opponent’s turn ends. Mark him with a shaken condition marker and a chit. Einherjar, Fear, Fearsome, Fearless, Grit, Terror, Valor, and WitchBorn grant immunity to Fearsome."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Feast",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Spilled blood is an irresistible temptation to WitchBorn and hungry predators. Feasters are compelled to eat the wounded.\\nKNOCK DOWN A WOUNDED VICTIM. Mark him with an unconscious condition marker.\\nFEASTERS NOT MARKED BY A CHIT INTERRUPT TO TAKE TURNS. Follow the Five Keys to A Great WitchBorn Feast and mark them with chits.\\nTHE FEAST. Place a die with the “6” up next to the victim. Feasters in reach chomp each turn, lowering the number -1. Two WitchBorn can eat a victim in 3 rounds. More Feasters speed the process.\\n When the die reaches “0,” the victim is devoured and can’t be restored even by a Reborn spell. The victim won’t become WitchBorn—too little is left.\\nHIT A FEASTER TO DISTRACT IT. The damage feat doesn’t need to succeed. Once all are distracted, remove the victim from the battlemap. The original wound still applies. At least he won’t be the main course at this banquet!\\nFEASTERS WANT BLOOD! They won’t eat a Dryad, golem, swamp beast, WitchBorn, or other bloodless creature."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Feint",
+      "Prerequisite": "",
+      "Restrictions": "Nimble negates Feint.",
+      "Description": "Misdirection confuses an opponent into missing the real blow coming.\\nMELEE ATTACKS. Re-roll 1 poor die result for a melee attack—even an oops. With multiple attacks re-roll 1 die per attack.\\nExample: A pack of wolves flanks you snarling, their bodies lean with hunger. You swing at the nearest, rolling an oops and a miss. You re-roll the oops and go from wolf’s lunch to wolf’s bane."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Expert",
+      "Name": "Fighter",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with the Wolven Predator skill.",
+      "Description": "Anyone can swing a sword. Doing it well is an art. Your Fighter gets +1 attack die on melee attacks. With a Strength advantage, attack with 3 dice.\\nWEAK STUFF. If your Fighter is weaker than an opponent, earn this bonus die but still only hit on a critical."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Master",
+      "Name": "Fire Mage",
+      "Prerequisite": "Must be a Shadow Mage or Druid",
+      "Restrictions": "",
+      "Description": "Control light to illuminate. Shape fire into barriers, flaming weapons, and raging conflagrations to cause sweeping destruction.\\nFire is the most destructive elemental force. Orc Fire Mages emerged from the steppe of Selegen Gol to aid in conquest of the civilized world. Tap the vitality of a thing, coercing its inner glowing light into a powerful flame your Adept commands.\\nAdd Fire spells of up to Fourth Magnitude to your Adept’s repertoire in the same way he does spells from his original school."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Fireproof",
+      "Prerequisite": "",
+      "Restrictions": "Fireproof doesn’t affect Eldritch Fire or the Elf Fire spell.",
+      "Description": "Walk through flame or ignore even the mightiest mage’s Eruption.\\nIMMUNE TO NATURAL FIRE. When Dryad slayer arrows hit your warrior, the opposing player only rolls D6 for the damage feat and injury outcome. Spellfire has no effect either.\\nALSO GAIN IMMUNITY TO FIRE SPELLS.\\n• Dragon Fire • Eruption • Firebrand\\n• Firestorm • Flame Strike • Hellfire\\n• Nimbus • Ring of Fire • Sunburst"
+    },
+    {
+      "Category": "Speed",
+      "Type": "Master",
+      "Name": "First Strike",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Great anticipation allows Elven Wardens, Paladin Archers, and other creatures to take turns before opponents. Each new round the First Strike Phase happens before the marshal draws chits. Your warrior takes a turn first and is marked with a chit.\\nWHAT IF EVERYONE HAS FIRST STRIKE? If opposing warriors also have First Strike, the marshal puts up to 3 chits for each war clan in the turn cup. Resolve these turns in order and the First Strike Phase ends. The marshal adds remaining chits to the turn cup.\\nExample: Your two Elven Wardens face one Paladin Archer, all with First Strike. The marshal places three chits in the turn cup. Your opponent’s chit is drawn. His Archer takes the first turn followed by your Wardens.\\nYOU CAN CHOOSE NOT TO USE FIRST STRIKE. Going first isn’t always an advantage. You might want an opposing creature to charge closer. If so, just leave your warrior’s chit with the rest. First Strike can’t be “saved” for later.\\nANY CONDITION MARKER CANCELS FIRST STRIKE. Being disarmed or staggered means your warrior strikes last instead—quite a difference!\\nNO MORE THAN 3 OF YOUR WARRIORS CAN FIRST STRIKE AT ONCE. You may have more than 3 with First Strike on your roster but this prevents Elven and Guild war clans from making all their attacks before an opponent even gets a turn.\\nIMPORTANT NOTE: All First Strikes happen at exactly the same time. If you take three, you can’t be next when play resumes or that would be four turns in a row. This is even true if an opponent breaks up your three First Strikes. Again, this is to prevent someone having four to five warriors take quick turns before others have a fair chance to play.\\nA warrior can’t interrupt during the First Strike Phase (not even with Command, Herbal Lore, Khan, Opportunist, Quick Cast, Rally, Serendipity, Signal, or a held chit. Only a creature in hiding may interrupt for a surprise attack (and this counts toward 3 turns in a row)."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Fly",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Slip the bonds of gravity to wheel and soar in the sky. Flying is one of the easiest ways to move around the battlemap. See Fliers in the Finer Points of Movement for rules on altitude, ability score improvements, and velocity."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Frail",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Fight with rage. If your warrior fails to hit on a melee attack, re-roll all the attack dice (including an oops). You must accept the new result. Fury works on a charge.\\nMULTIPLE ATTACKS. Fury only applies to the first and can’t be saved until “you really need it.”\\nLikewise, with Shield Bash or Shield Rush, Fury only applies to the shield attack and can’t be “reserved” for the primary weapon. Your warrior can skip the shield attack to make sure the primary weapon gets the re-roll but only gets 1 attack then."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Expert",
+      "Name": "Fury",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": ""
+    },
+    {
+      "Category": "Strength",
+      "Type": "Basic",
+      "Name": "Gash",
+      "Prerequisite": "Any Gashing Weapon",
+      "Restrictions": "Doesn’t combine with Blade Dancer, Einherjar, or Great Blow.",
+      "Description": "Gash is a gory attack, adding +2 to damage feats with a gashing weapon."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Glutton",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Your Halfling loves a good night’s sleep followed by eating. And eating. And eating. Six squares a day might keep him covered. But then again, it may not.\\nDECIDE TO USE GLUTTON PRE-GAME. Your Halfling needs a bedroll and provisions. Mark the bedroll as used (no re-roll during the game) and cross the provisions off your roster.\\nFEEL ENERGIZED! Add +1 to a single ability score for the entire adventure.\\nNO DOUBLE-DIPPING THOUGH. The ability score raised can’t be one already improved by a skill like Sniper, an artifact granting a skill like Champion, or an ability score increase from when your Halfling earned a level.\\nEAT WITHOUT LIMIT. Consume any number of provisions in the adventure. Interrupt and take turns out of order until your Halfling runs out."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Expert",
+      "Name": "Great Blow",
+      "Prerequisite": "Any 2-handed Melee Weapon",
+      "Restrictions": "Doesn’t combine with Assassin, Batter, Blade Dancer, Clobber, Einherjar, Gash, or Thump.\\nRiders: Can’t be used while mounted.",
+      "Description": "Maximize a 2-handed weapon’s length and leverage, adding +3 to your warrior’s damage feats.\\nWeapons like a battleaxe can be wielded 1- or 2-handed. Great Blow only applies when wielded with two hands. Add the +1 damage feat for the battleaxe to Great Blow for a +4 modifier. A polearm adding +1.3 to damage feats becomes +4.6."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Grit",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Be bold and determined. Your warrior has seen enough chilling sights to last a lifetime. Grit rewards this resolve by adding +2 to rout feats.\\nYOU DON’T SCARE ME! Also approach or attack Fearsome foes without a rout feat."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Gypsy Witch",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Gypsies are a displaced tribe who migrated from the far east after the Cataclysm. They have their own language, music, and culture. Gypsies are known as charmers but slandered as thieves.\\nFortunetellers pass down this sympathetic magic which requires no scrolls or repertoire, just relies on others for spells. Your Gypsy Witch accesses spells of other Adepts, both friend or foe. The spellcaster must first use the spell in the adventure before your Gypsy Witch may imitate and cast the spell.\\nShe isn’t restricted to any school of magic and requires no spell components. She must still make a Psyche feat if the spell requires one. Her level as a spellcaster matches her level as a warrior (if a spell requires this information)."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Haggle",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Barter, Fence, Forager, or Glamour. You can’t Haggle to add spells to an Adept’s repertoire.",
+      "Description": "Drive a hard bargain. Buy equipment, lowering the price -1 GP with a successful Psyche feat. The cost is never less than 1 GP.\\nHAGGLE FOR EACH ITEM INDIVIDUALLY. But if you roll a Psyche feat, you’re committed to buying the item. Fail and you pay full price but can still try for another.\\nHaggle for items on your war clan’s equipment list and trinkets from characters encountered in discoveries.\\nSEE IF RARE ITEMS ARE AVAILABLE. Add +1 to the rarity roll. To purchase Elven chainmail [rare 4], only roll a 4 instead of 5 to succeed. Follow this with a successful Psyche feat to get it cheaper. MORE HAGGLING. Bonuses aren’t cumulative so two Hagglers don’t combine for a bigger discount."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Hairy Monster",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "This creature isn’t necessarily covered in fur; it’s “hairy” in the sense you don’t want to tangle with it. The creature could be a snarling winter wolf or a plains wyvern.\\nThese creatures don’t earn levels or skills but are so formidable they get +2 attack dice on melee and missile attacks. Higher Strength or Agility adds to this number as expected. A Hairy Monster has more chances to hit and less opportunity for an oops.\\nWEAK EFFORT. When a Hairy Monster has lower Strength than an opponent, it gets the bonus attack dice but still needs a critical to hit.\\nAIN’T SCARED. A Hairy Monster is confident, adding +3 to rout feats. Creature statistics already include this bonus."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Hardened",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Perdition is home to many horrors. Your warrior is inured to these atrocities, having seen the dying quicken and become WitchBorn. Over time he developed a sense of calm in the most desperate situations.\\nRE-ROLL AN OOPS OR A NATURAL 1 EACH TURN. If your warrior gets multiple attack dice, just re-roll 1 of them. If your warrior makes multiple attacks, only re-roll 1 die each turn."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Harpy Song",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Harpies roll in fecal matter and reek like rotting garbage. Upper bodies are humanoid with leathery bat wings and appendages ending in eagle-like talons. Human faces are lost in tangles of matted black hair cascading over filthy shoulders.\\nHARPY SONG INDUCES A TRANCE-LIKE STATE. A harpy sings continually even if engaged in melee. Each time she begins a turn, warriors within short range must roll Psyche feats or succumb to the loathsome song.\\nVictims cower and are marked with a chit, unable to take a turn until the harpy is wounded or stops singing. The harpy and her comrades can attack the victim at leisure.\\nPROTECTION. A victim who makes 1 successful Psyche feat or Resistance roll is immune to any Harpy Song for the adventure. Beeswax in the ears also lends victims immunity to the song. Harpies are naturally immune."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Basic",
+      "Name": "Heave",
+      "Prerequisite": "1-Handed Missile Weapons",
+      "Restrictions": "Siege missiles can’t combine with skills so are excluded.",
+      "Description": "Rely on raw power rather than accuracy for hurling missiles. This could be quite a bonus for a brute like your Oni or Ogre!\\nGET MISSILE ATTACK DICE. If your warrior’s Strength is greater than the opponent’s Agility, he gets 2 attack dice for the Heave. An equal or lower score means just 1 die.\\nDAMAGE FEATS. Apply Strength rather than Agility to your roll. Skills modifying damage feats are still added too."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Hoarfrost",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "The icy touch of a frost giant or a Frost Brand causes searing pain, intensifying a wound.\\nA WOUNDED VICTIM CONTRACTS FROSTBITE. If the wound drawn is only a knockout, continue to draw until a maimed, War Wound, or kill is inflicted.\\nWIELD ANY WEAPON TO IMPART FREEZING WOUNDS. Hoarfrost affects melee and missile attacks."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Horns",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Blades, Bull Rush, Shield Bash, Shield Rush, or War Cry.",
+      "Description": "In the wild, stags and Satyrs scrape their hard antlers against trees to remove the velvet and expose cruel points to gore opponents.\\nMELEE CHARGE! Attack with +1 attack die and add +2 to damage feats.\\nOn a successful hit, the opponent is driven backward 1 pace. You choose where. This can be very advantageous if the opponent is on the lip of a steep cliff!"
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Instinct",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Your Wolven’s sense of smell is up to 100,000 times better than a normal mortal so very little escapes notice.\\nSCENT PREY BEFORE IT SEES YOU. Easily target Concealed, hiding, Veiled, and Wraith Cloaked creatures without penalty. Your Wolven also never suffers a surprise attack. The opposing creature only gets 1 attack with normal modifiers.\\nTAKE A WHIFF. Add +2 to discovery feats.\\nNIGHT AND DARKNESS. A perceptive nose allows your Wolven to move and fight perfectly well at night or in total darkness.\\nPACK ANIMALS. Wolven feel such confidence in their pack or an adopted war clan (for mercenaries), they add +2 to rout feats."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Master",
+      "Name": "Iron Will",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Stubbornly disregard an injury and keep going. Your warrior grits his teeth against pain, compartmentalizes the agony, and forgets it. For the first injury outcome your warrior suffers, an incredible constitution takes over. Iron Will completely cancels the injury outcome—even a wound!\\nIron Will only applies to the first injury outcome in an adventure—you can’t choose whether or not to use it. Mark a “dot” near the skill when used to show it’s done until next adventure."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Expert",
+      "Name": "Keen Aim",
+      "Prerequisite": "Any Piercing Missile",
+      "Restrictions": "Doesn’t combine with Assassin.",
+      "Description": "Search for the bit of exposed flesh on a victim whether a pale pink neck above an Elf’s cloak, the eye socket of a charging WitchBorn, or the tiniest gap in a Paladin’s armor.\\nADD +2 TO DAMAGE FEATS WITH PIERCING MISSILES."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Expert",
+      "Name": "Kill Shot",
+      "Prerequisite": "",
+      "Restrictions": "Deflect negates Kill Shot’s bonus. Doesn’t combine with Assassin.",
+      "Description": "Shooting isn’t just about hitting the target; it’s about where you hit the target. At longer ranges, your warrior aims for the chest to cause heavy blood loss. At closer ranges, ruthlessly target the “apricot,” a region at the base of the skull controlling movement.\\nADD +1 TO INJURY OUTCOMES FOR MISSILE ATTACKS. Kill Shot combines with hunting arrows, signature arrows, ice bolts, piercing arrows, and other missiles modifying injury outcomes."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Leap",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Giant spiders and some Wolven are capable of extraordinary Leaps over chasms, onto raised ledges, and even over the heads of opponents.\\nNO LEAP CHECK IS REQUIRED. Success is automatic. The length of a Leap equals the creature’s Speed score. Extend this distance with pushes like a normal leap (see Movement). Also vault upward or downward an equal distance.\\nEVADING. Leap away from an opponent, evading automatically without an Agility feat. Even bound over the opponent, who can’t contest the attempt. Engage has no affect on Leap."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Levitate",
+      "Prerequisite": "",
+      "Restrictions": "Levitating is slow and gradual so doesn’t help to evade. Conceal, hiding, and cover are lost by Levitating; all require feet on the ground. Levitate doesn’t provide ability score bonuses like flying because your Levitating warrior floats in place—fairly easy to target compared to a flier in motion.",
+      "Description": "Float gently upward to hover in place for a better vantage when firing missiles or casting magick and spells.\\nLEVITATE TO BEGIN OR END A TURN. Levitate upward or downward only, never laterally. Mark your warrior with a Levitate template. Don’t charge first. Levitate and shoot or your warrior can’t Levitate until the end of the turn.\\nSHOOT WITH +1 TO AGILITY (HIGHER ELEVATION). Take the full number of attacks your warrior’s missile weapon allows. Gain higher elevation than an opponent atop a high tower but not a flier at soaring altitude.\\nLEVITATE TO CLIMB. Ascend or descend to begin a turn. Step 1 pace onto a stable surface like a fortress wall or the ground.\\nSYLPHS FLY AND LEVITATE. A flying charge only allows 1 attack per turn while Levitation permits her full number of missile attacks.\\nFly any turn your Sylph is already Levitating. Start at soaring altitude and move full velocity. After flying, your Sylph must land to Levitate again."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Locked-On",
+      "Prerequisite": "",
+      "Restrictions": "A Nimble victim is too elusive to be Locked-On.",
+      "Description": "War dogs and other creatures lock jaws tight on victims, nearly impossible to dislodge.\\nIf a victim isn’t wounded by an injury outcome, the creature is Locked-On to a limb. The tenacious creature rolls an automatic injury outcome subsequent turns—no attack roll or damage feat needed.\\nNO LETTING GO. A creature won’t release its hold unless injured (staggered or worse). The victim may melee the creature with 1 attack die maximum and a -3 damage feat modifier. Comrades can melee the creature with normal modifiers. The victim can’t evade, Breakaway, Elude, Escape, or Withdraw.\\nRisk shooting into melee to free the victim though this is penalized normally (see Finer Points, Combat).\\nTHE GARROTE. Guild are known for these colorful silk scarves designed to silently strangle a victim. An attacker can be Lock-On same as a war dog."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Expert",
+      "Name": "Marksman",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Adjust to crosswinds and lead moving targets more accurately.\\nRe-roll 1 attack die on a poor missile shot each turn, including an oops. When rolling multiple attack dice, pick a single one to re-roll. For multiple shots, only 1 die on 1 of the shots can be re-rolled."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Master",
+      "Name": "Mighty",
+      "Prerequisite": "",
+      "Restrictions": "Can’t knock down a Nimble opponent. The damage modifier still applies.\\nRiders: A critical hit knocks a warrior from his mount even with a saddle.\\nFliers: Knockdown fliers at skimming altitude on a critical hit but skip the damage feat and roll an injury outcome.",
+      "Description": "Crumple opponents to their knees.\\nADD +2 TO DAMAGE FEATS IN MELEE. Knockdown your opponent on a critical hit too.\\nCOMBINE MELEE SKILLS. Mighty adds +2 whether you have Assassin, Brawler, Deadly Aim, Divine Grace, Gash, Great Blow, Shield Bash, or another damage modifier. An Einherjar adds the bonus last."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Monster",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Monsters aren’t always grotesque or frightening. One could be a grizzly bear trawling for fish. Another could be a giant scorpion with its chitinous tail arched high. Or it could surprise you and be a sexy medusa who turns fools to stone.\\nMonsters don’t earn levels and skills like warriors. They do get +1 attack die for melee and missile attacks. Higher Strength or Agility adds to this bonus as usual. This gives the Monster a better chance to hit and less opportunity to roll an oops.\\nWEAK EFFORT. When a Monster has lower Strength than an opponent, it gets the bonus attack die but still needs a critical to hit.\\nAIN’T SCARED. A Monster adds +2 to rout feats. Creature statistics already include this bonus."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Nari",
+      "Prerequisite": "",
+      "Restrictions": "Nari can’t earn Blades, Blades Master, Onslaught, Shield Bash, Shield Rush, or Shield Wall.",
+      "Description": "The Nari (pronounced Nar-REE) are the once noble centaurs of the plains. They were gentle poets and artists who hunted buffalo and taught plainsfolk their secrets. When WitchBorn first appeared, the pacifist Nari were among the first to succumb. There may not be a single Nari left in all the world who’s not undead. WitchBorn Nari are purest evil. They maliciously hunt, torture, and drink the blood of any man or beast daring to roam the plains.\\nNari draw advantages from their combined horse and warrior anatomy.\\nSPEED AND GAIT. Speed applies to the Nari’s human half and the number of attacks it takes per turn. Gait is 10 for moves and charges. Gallop at 20 (without a Psyche feat because the Nari is not a mount).\\nCHARGE AND CONTINUE AFTER THE ATTACK LIKE A RIDER—except—a Nari gets all its attacks at any point during a charge. The Nari also makes hard turns without penalty."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Basic",
+      "Name": "Nimble",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "React quickly to avoid nasty little surprises from attackers. The following skills are ineffective against your Nimble warrior.\\n• Cleave • Dirty Tricks\\n• Disarm • Engage\\n• Feint • Locked-On\\n• Mighty* • Onslaught\\n* Your warrior isn’t knocked down but the +2 damage feat modifier still applies."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Oaf",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "One too many conks on the head make your Oaf absent-minded. Mark your warrior with the Oaf template to start games.\\nRoll D6 to begin your Oaf’s turn. On a 2–6, he reacts normally. On a 1, he stands around unable to focus on the task at hand. He’s sure it was important. Mark your Oaf with a chit. He loses this turn.\\nIf your Oaf is wounded and suffers the trait a second time, his Psyche lowers -1 to a minimum of 1. Earn Resilient to erase the Oaf trait but lost Psyche can’t be restored."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Basic",
+      "Name": "Onslaught",
+      "Prerequisite": "Strength 5 or greater",
+      "Restrictions": "Doesn’t combine with Blades, Blades Master, Shield Bash, or Shield Rush. A Spectral or Nimble victim is immune.\\nRiders: Can’t use while mounted.",
+      "Description": "Make an overwhelming melee attack, sending one victim crashing into another.\\n1] TARGET TWO VICTIMS. They must be within reach of each other but only one must be within reach of your warrior (see Two Birds, One Stone). Get attack dice normally.\\n2] ROLL TO HIT THE FIRST VICTIM. Roll a damage feat plus an injury outcome if needed.\\n3] IF THE FIRST VICTIM IS INJURED, HE SLAMS INTO THE SECOND. Roll a damage feat of D6 +5 for the second victim. No further modifiers apply. Roll an injury outcome if needed.\\nMULTIPLE ATTACKS. Finish attacks against the first victim but only apply Onslaught to the first attack."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Basic",
+      "Name": "Opener",
+      "Prerequisite": "Lock Picks",
+      "Restrictions": "",
+      "Description": "A ramshackle building lays ahead. Your war clan is starving, looking for food or something to trade for food. This is where your Opener comes in. He has a knack for breaking, entering, and avoiding traps.\\nOPEN ANY LOCK WITHOUT A DIE ROLL. This could be a throne room door, an ironbound chest, manacles binding a prisoner, or similar locks. Also earn +1 Shadow point for success.\\nDETECT TRAPS. If a lock triggers a trap, your Opener springs to safety unharmed at all. Should a blast or effect with a large target radius be triggered, others may still be affected.\\nYour Opener can also safely charge and remove 1 Glyph or caltrop template each turn."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Paralyzing Gaze",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Before approaching or attacking a basilisk, your warrior must succeed on a Psyche feat or makes eye contact and is frozen in place by the Paralyzing Gaze—still totally aware—but unable to take actions as simple as turning his head.\\nTHE BEST DEFENSES. Magic, Spellbreaker, and the Resistant trait can’t protect your warrior from Paralyzing Gaze. Peer into a looking glass or clamp your warrior’s eyes tight and fight in total darkness (Finer Points, Combat) to avoid the gaze.\\nPARALYZED. Your warrior is unable to take a turn for the rest of the adventure but can still be attacked, wounded, or robbed. He is treated as being stunned. He can rout but isn’t removed from the battlemap. Your warrior recovers before next adventure (assuming the basilisk doesn’t get hungry first).\\nRiders: A failed Psyche feat paralyzes both warrior and mount.\\nFliers: A paralyzed flier plunges from the sky. Roll an immediate injury outcome. If Levitating, your warrior remains paralyzed in the air."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Expert",
+      "Name": "Parry",
+      "Prerequisite": "A Melee Weapon (but never a shield or natural weapon like a fist or claw)",
+      "Restrictions": "Parry doesn’t protect when your warrior is stunned. Opponents with Dirty Tricks or Zero In can also ignore your warrior’s Parry. Parry doesn’t combine with Fend.",
+      "Description": "Block hits from both melee and missile attacks. When an opponent rolls a parry hit, your warrior is struck on the weapon side. Turn aside the blow so the attack misses. Block any number of parry hits in the same round."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Petrify",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "The gaze of a Medusa changes creatures to stone. Before approaching or attacking, your warrior must succeed on a Psyche feat or makes eye contact and hardens into a perfectly detailed marble statue.\\nTHE BEST DEFENSES. Magic, Spellbreaker, and the Resistant trait can’t protect your warrior from Petrify. Peer into a looking glass or clamp your warrior’s eyes tight and fight in total darkness (Finer Points, Combat) to avoid the gaze. Once the Medusa is identified, warriors who approach or attack roll Psyche feats at +2.\\nRESTORATION. Only the Reborn spell transforms your mortal warrior back to flesh. Until then, carry your warrior in a vehicle as gear. A Faerie is dead but may be rekindled by a Faerie Ring.\\nKEEPSAKE. A freshly severed Medusa head can Petrify foes but loses potency with time. Opponents add +1 to Psyche feats. Every adventure after adds +1 until the modifier reaches +4 and the head is no longer of use. Riders: A failed Psyche feat Petrifies both warrior and mount.\\nFliers: Plunge from the sky and roll D6. On a 1, the flier shatters. Not even a Reborn spell puts the pieces back together."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Putrid",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Some Dark Fae and harpies are Putrid. They smell like sweat, offal, or a dog’s butt. Or maybe even all three at once. Roll D6 below before approaching within pointblank range or targeting a Putrid creature with any sort of attack, magick, or spell.\\nD6 Putrid Check\\n1–2 Stop, choke on the fecal smell, and get a strike last condition marker. In the Strike Last Phase, the warrior must make another check to approach or target the creature again. Failing this, the warrior is marked with a chit and keeps the strike last condition marker.\\n3–6 The warrior tolerates the stench."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Basic",
+      "Name": "Quick Cast",
+      "Prerequisite": "Must be an Adept",
+      "Restrictions": "Can’t interrupt creatures during the First Strike Phase.",
+      "Description": "Decrease spellcasting time by mastering concentration and breathing. Interrupt to cast a spell out of turn, unless your Adept is already marked by a chit or has a condition marker.\\nOnce the spell is cast, mark him with a chit."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Expert",
+      "Name": "Quickness",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Briskly dispatch enemies. Add 1 attack per turn with the primary melee weapon listed in your warrior’s first weapon slot. A warhammer becomes capable of 2 attacks per turn, a short sword jumps to 3, and so on.\\nExceptional Speed also influences attacks per turn—even for weapons limited to (1). A weapon with [1] attack per turn never makes more despite Speed or Quickness.\\nExample: Fire Heart wields a shadow blade 2-handed. Quickness improves him from (1) attack per turn to 1. Then his Speed of 8 brings this up to 2. Frightening for an Executioner!\\nYOU’RE THE ONLY ONE. If a primary weapon is lost or broken, your warrior can’t substitute another until next adventure—even a backup of the same type. It takes time to learn the subtle balance of the new primary weapon.\\nCHARGES. Charging on foot, riding, or flying still limits your warrior to 1 attack."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Master",
+      "Name": "Quick Shot",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Fire missiles with fluid grace. Add 1 attack per turn to the primary missile weapon listed in your warrior’s second weapon slot. A composite bow becomes capable of 3 attacks per turn, daggers jump to 4, and so on.\\nA missile allowing (1) or [1] attack per turn doesn’t get an extra attack though a windlass improves a crossbow from (1) to 1 so it can benefit from Quick Shot.\\nExample: Sigrün prefers a crossbow. Buying a windlass moves her from (1) attack per turn to 1. Quick Shot adds 1 more but then her Speed of 8 brings this up to 3 shots per turn. Unbelievable for such an unwieldy weapon!\\nYOU’RE THE ONLY ONE. If a primary missile weapon is lost or broken, your warrior can’t substitute another until next adventure—even a backup of the same type. It takes time to learn the subtle balance of the new primary weapon.\\nCHARGES. Charging on foot, riding, or flying still limits your warrior to 1 attack."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Rally",
+      "Prerequisite": "Battle Standard",
+      "Restrictions": "Each standard bearer can only use Rally 1 time per round.",
+      "Description": "Inspire a comrade shaken by the sight of friends being slaughtered or one who falters when asked to charge a marauding troll.\\nINTERRUPT WHEN A COMRADE FAILS A ROUT FEAT. Remove 1 shaken condition marker from a comrade within short range.\\nYour standard bearer can’t have a condition marker to interrupt. He’s marked with a chit afterward or a strike last condition marker if already marked.\\nUNNERVING CREATURES. Also interrupt to Rally a comrade who fails a rout feat going after a creature with Fearsome, Fear, or Terror. Your comrade is free to approach or attack the creature. Mark your standard bearer with a chit or condition marker."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Rancor",
+      "Prerequisite": "",
+      "Restrictions": "No spell or skill erases Rancor.",
+      "Description": "Inspire a comrade shaken by the sight of friends being slaughtered or one who falters when asked to charge a marauding troll.\\nINTERRUPT WHEN A COMRADE FAILS A ROUT FEAT. Remove 1 shaken condition marker from a comrade within short range.\\nYour standard bearer can’t have a condition marker to interrupt. He’s marked with a chit afterward or a strike last condition marker if already marked.\\nUNNERVING CREATURES. Also interrupt to Rally a comrade who fails a rout feat going after a creature with Fearsome, Fear, or TerrorShadow Mages radiate pure evil. Gruesome Orcs are reviled. Dark Elves are shunned. All suffer fervent hostility from strangers who often attack before talking.\\nREACTION CHECKS. Many discoveries feature a character who relays important information. A note at the top says, “A discoverer with Animosity or Rancor must make a reaction check.”\\nBefore this discovery is read, roll D6 to determine how hostile the character feels toward your discoverer.\\nD6 Reaction Check\\n1–3 The character attacks until he or your discoverer is wounded. No Shadow is awarded.\\n4–5 The character runs off. No Shadow is awarded.\\n6 The character is distrustful but the\\nKILL HIM! Wound a creature with Rancor for double the Shadow…it’s a deed well done! Knocking out a creature earns 2 knockouts. A kill is especially valuable since double is +10 Shadow. A warrior who has Rancor never earns this bonus.\\nTHE PIT. The tavern in Asylum is run by the Guild. Some members have Rancor so they tolerate despicable visitors as long as a majority of your war clan doesn’t have Rancor. War clans with too much Rancor can’t play Asylum or Nightfall."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Regenerate",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "The amazing healing power of an Oni or troll staunches bleeding immediately. Torn flesh knits together to scab over in a few rounds.\\nREGENERATE ANY WOUND EXCEPT A KILL. After a wound, mark the creature with an unconscious condition marker and a chit. For its next turn, change the condition marker to stunned. From here the creature recovers normally.\\nTHE CREATURE CAN’T BE ATTACKED WHILE UNCONSCIOUS. But it can when stunned or staggered. Shadow is only awarded the first time a creature is wounded to prevent you from keeping a troll perpetually stunned just to continue smacking it for easy points.\\nFIRE SLOWS REGENERATION. A wound from a flaming sword or Dryad slayer arrow removes the creature from the battlemap. Apply a Hearthstone, Everburning Coals, juniper brand, or torch to finish the creature off and remove it from the battlemap. Even badly burned, the creature recovers by next adventure.\\nEldritch Fire and Elf Fire have no effect.\\nFEASTERS DELAY REGENERATION. A creature can’t Regenerate while being chomped on until the Feasters are distracted. If eaten completely, the creature fails to Regenerate and is dead.\\nKILLS. A creature suffering death by a wound can’t Regenerate."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Rend",
+      "Prerequisite": "",
+      "Restrictions": "Sidestep negates attacks beyond the first.\\nRiders: Can’t be used while mounted.",
+      "Description": "Monsters like bears and trolls can make claw and bite attacks in the same turn. See Claw Me, Bite Me for how creature stats are listed.\\nGET ATTACK DICE NORMALLY. A creature stronger than its opponent earns an extra attack die. Monster, Hairy Monster, and Scary Monster add attack dice as well.\\nResolve claw attacks before the bite.\\nA WOLVEN WITH REND gets all her attacks with claws plus 1 bite attack. A Wolven with Quickness or Speed 8 makes 3 claw attacks, followed by 1 bite.\\nCHARGES. Attack once with a claw and then a bite. Fliers may Rend on a charge."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Basic",
+      "Name": "Resilient",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "The laundry list of traumas your warrior can suffer in battle without dying is quite impressive. From Amputee to War Wound, all are traits you certainly don’t want.\\nEarn Resilient to rehabilitate from the lingering effect of 1 terrible wound. Cure any 1 of the following:\\n• Amputee • Battle Scar • Coward\\n• Craven • Faint-Hearted • Frail\\n• Gruesome • Oaf • Shamble\\n• Sunblind • War Wound\\nANIMOSITY AND RANCOR CAN’T BE FIXED. (Once a scumbag, always a scumbag). Feast is an overwhelming desire that can’t be cured either.\\nResilient doesn’t cure any of these:\\n• Animosity • Big ’Un • Curse\\n• Drain Life • Feast • Four-Legger\\n• Petrify • Putrid • Rancor\\n• Wee • WitchBorn"
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Resistant",
+      "Prerequisite": "",
+      "Restrictions": "Damage modifiers from artifacts can’t be “resisted” and the Defense Bonus from a foe’s enchanted armor can’t be “ignored.”",
+      "Description": "Dwarves, Dark Elves, and some other creatures are less susceptible to poison, magick, or spells whether it’s dark hellebore, Eldritch Fire, or a turbulent Earthquake spell.\\nRESIST ANY POISON, MAGICK, OR SPELL WITH A SUCCESSFUL PSYCHE FEAT. The effect does not apply to your warrior.\\nPOISONS. If poison is resisted, apply the opponent’s roll minus poison modifiers.\\nSLEEP. This magick allows your warrior to roll a Psyche feat to resist anyway. Resistant doesn’t allow another roll.\\nA SPELL LIKE FLAME STRIKE HAS A LARGE TARGET RADIUS. Even if your warrior resists the effect, others in the target radius are still affected. AGAINST UNSEEN, VEIL, AND WRAITH CLOAK.\\nWith a successful Psyche feat, your warrior gains a line of sight to target the opponent. The creature isn’t revealed to others and another Psyche feat is required to target the creature each turn. Resistant doesn’t see through Conceal, Stalk, or Stealth since none are magic(k)."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Master",
+      "Name": "Rugged",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Let’s face it; to survive Perdition, your warrior is already tough. Rigorous conditioning builds stamina so reactions don’t slow him or cause an accidental dip of a shield.\\nRugged grants a +3 bonus to your warrior’s Defense score."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Master",
+      "Name": "Savant",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "While comrades hunt for food, your warrior sifts through ruins and raids ancient libraries seeking elusive books and lost knowledge. Intense study grants your warrior a +1 Psyche bonus."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Scary Monster",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "While you might not tremble with fear, this creature is “scary” in the sense that it’s one of the toughest monsters you’ll come across. It could be an ice elemental or a sandworm whose gaping maw stinks like a fresh-turned grave.\\nThis creature doesn’t earn levels or skills but does get +3 attack dice on melee and missile attacks! Higher Strength or Agility adds to attack dice as expected. This gives the Scary Monster more chances to hit and less opportunity to roll an oops.\\nWEAK EFFORT. When a Scary Monster has lower Strength than an opponent, it gets the bonus attack dice but still needs a critical to hit.\\nNOT SCARED AT ALL. A Scary Monster is Fearless and won’t rout. Creature statistics already include this bonus. Scared now?"
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Expert",
+      "Name": "Scholar",
+      "Prerequisite": "Must be an Adept",
+      "Restrictions": "",
+      "Description": "As an apprentice, your Adept learned from a master’s repertoire. Now, your Adept spends hours poring over ancient treatises and chasing down lost manuscripts for arcane knowledge to gain two unique advantages.\\nLEARN SPELLS CHEAPER. Still make a rarity roll to learn a spell but pay a reduced cost.\\nGP Spell Magnitude\\n0 First\\n1 Second\\n3 Third\\n6 Fourth\\n10 Fifth\\n20 Sixth\\nRE-ROLL 1 FAILED SPELLCASTING FEAT PER ADVENTURE—even an oops. Whether the reroll succeeds or not, mark a “dot” next to the Scholar skill as a reminder it can’t be used again until next adventure. Damage feats and injury outcomes can’t be re-rolled."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Expert",
+      "Name": "Secure",
+      "Prerequisite": "",
+      "Restrictions": "In Enter Perdition and Wailing Citadel, the airship cargo or a wedding gift can’t be Secure—these items are carried in both hands and are fair game for every thief.",
+      "Description": "Sew equipment into hidden pockets, carefully strap it down, or camouflage it. A Cutpurse or Pillager can’t take any gear protected by Secure.\\nNO EQUIPMENT CAN BE STOLEN ON A WOUND RESULT EITHER. Your attacker finds nothing to take whether Challasaia’s Talisman is tucked into a pouch or your warrior is carrying a Holy Sword."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Shamble",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "This slow shuffling gait is often caused by a wound or intense cold. Shamble is also common to severely decaying WitchBorn.\\nRoll D6 before each turn to see if Shamble causes a creature/warrior to strike last.\\nD6 Shamble Check\\n1–2 SLUGGISH. The creature/warrior gets a strike last condition marker. During the Strike Last Phase, no Shamble check is needed. Remove the condition marker and take a normal turn.\\n3–6 The creature/warrior takes a normal turn.\\nFIX IT. Wear winter gear or earn Survival to ignore Shamble from extreme cold. Or earn Resilient to erase the lingering effect of Shamble caused by a wound."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Master",
+      "Name": "Sharpshooter",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t combine with Thrower.",
+      "Description": "Shoot missiles with deadly accuracy. Treat your Sharpshooter as having higher Agility than an opponent whether true or not. Get 2 attack dice for most shots. Modifiers from a surprise attack or a stunned opponent add to this total.\\nSharpshooter adds nothing to damage modifiers. Range and elevation modifiers still penalize damage feats.\\nLIMITATIONS. If your warrior already has higher Agility, Sharpshooter doesn’t add additional attack dice. Cover and Conceal still limit your Sharpshooter to 1 attack die.\\nSharpshooter only applies when shooting. An opponent gets his normal number of attack dice when returning fire."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Expert",
+      "Name": "Shield",
+      "Prerequisite": "Bracers, Buckler, Any Shield, or Staff",
+      "Restrictions": "Shield doesn’t protect when your warrior is stunned. Opponents with Dirty Tricks and Zero In can ignore Shield. The Blade Barrier, Gird, and Shield Rush skills add no advantage.",
+      "Description": "Shield is arguably the most effective defensive skill, blocking hits from both melee and missile attacks. When an opponent rolls a shield hit, your warrior is struck on his shield side. Block the blow so the attack misses. Your warrior blocks any number of shield hits in the same round.\\nA SHIELD TIES UP A HAND. Most 2-handed weapons like bows or greatswords are prohibited as are 2-handed skills like Blades.\\nWield a staff 2-handed to replace a shield and block melee attacks; missiles cannot be blocked. Or substitute bracers or a buckler so 2-handed weapons and skills can be used though neither block missiles."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Expert",
+      "Name": "Shield Bash",
+      "Prerequisite": "The Shield Skill",
+      "Restrictions": "Prohibits using 2-handed weapons or skills. An opponent with Sidestep allows only one shield or weapon attack. Doesn’t work with bracers or a buckler. Doesn’t combine with, Blades, Blades Master, Bull Rush, Horns, Nari, Onslaught, or Shield Rush.\\nRiders and Nari: Can’t use while mounted.\\nFliers: Your flier only makes 1 attack per turn so choose between the shield or other weapon.",
+      "Description": "Bludgeon a foe with a shield followed by an attack from a melee weapon.\\nSHIELD ATTACK FIRST. Get attack dice like any melee weapon. When the shield hits, roll a damage feat. Add your warrior’s Strength -1 (the shield’s damage modifier). The shield is blunt so Batter, Clobber, and Thump improve damage feats. Injury outcomes can‘t wound an opponent; he’s stunned at worst.\\nNever take more than 1 shield attack per turn.\\nMELEE WEAPON SECOND. Finish with your warrior’s normal melee attack(s).\\nCHARGE! Attack once with the shield and once with a melee weapon."
+    },
+    {
+      "Category": "Defense",
+      "Type": "Basic",
+      "Name": "Shield Wall",
+      "Prerequisite": "Shield or Shield Rush",
+      "Restrictions": "The bonus can’t be used when knocked down. Opponents with Engage or Zero In can also ignore the Shield Wall bonus. Doesn’t work with bracers, a buckler, Blade Barrier, Gird, or Nari.\\nRiders/Fliers: Can’t use while mounted or flying.",
+      "Description": "Stand shoulder to shoulder with shields overlapping to form a dense turtle-like shell against missiles and charging hordes.\\nPROTECTION. At least 2 comrades must have Shield Wall and stand within reach of each other, all gaining +3 Defense from melee, missile, magick, and spell attacks."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Basic",
+      "Name": "Sidestep",
+      "Prerequisite": "",
+      "Restrictions": "Engage cancels Sidestep.\\nRiders: Can’t use Sidestep while mounted.",
+      "Description": "Your warrior is pretty slippery and limits an opponent to 1 melee attack per turn, even when a weapon normally allows more. On foot, your warrior Sidesteps Trample attacks. Sidestep also limits the following skills to 1 attack.\\n• Blades • Blades Master • Rendn• Shield Bash • Shield Rush\\nDo not warn an opponent in advance of the attack that your warrior has Sidestep."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Master",
+      "Name": "Sky Mage",
+      "Prerequisite": "Must be a Shadow Mage, Druid, Shaman, or Monk",
+      "Restrictions": "",
+      "Description": "Walk on water, control weather, soar like an eagle, and even call lightning.\\nThe Elven Eternals sang and winds sprang up to carry flocks of birds. Another song, and river currents rippled. They continued until they mastered the heavens and oceans. Your Sky Mage will never be as powerful but does manipulate the elements of air and water, controlling these living currents the way a dam directs the flow of a river.\\nAdd Sky & Water spells of up to Fourth Magnitude to your Adept’s repertoire in the same way he does spells from his original school."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Master",
+      "Name": "Sniper",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Gauge range, wind, and lead moving targets to deliver lethal shots. Add +1 to your warrior’s Agility score for more accurate shots and damage feats."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Spectral",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Sometimes tragedy roots a slain warrior to the mortal realm. Or a Faerie might become a Shade, forever barred from entering the Otherworld. In either case, the dispossessed soul is no longer tethered to a body—it’s now Spectral.\\nEFFORTLESSLY PASS THROUGH BARRIERS. Move or charge through walls, trees, furnishings, fire, rivers, and even living creatures. Fly, Levitate, or Climb through ceilings and floors with ease. Move almost without restriction—though a Spectral being can’t end a turn occupying the same space as a living thing.\\nA SPECTRAL BEING CAN’T EARN SHADOW. It has the same level and skills it had at death.\\nATTACK IN MELEE WITH MISSILES, MAGICK, OR SPELLS. A Spectral being is limited to the equipment it possessed at death. Spectral equipment can’t be traded, broken, or stolen. Most 1-use items like a potion still have only one use. Spectral ammo is an exception that still runs out from an oops but is replenished before next adventure.\\nEXTRA DEFENSE. Normal objects whizz through a Spectral being. Only artifacts, magick, and spells may hit it. The Spectral being is immune to Onslaught.\\nWOUNDS. Miss next adventure after suffering a maimed, War Wound, or kill result. A Spectral being can’t become WitchBorn.\\nBEGIN ADVENTURES UNSEEN (Elven Skill). Replace the Spectral being with a Hiding template until revealed normally."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Expert",
+      "Name": "Spell Blast",
+      "Prerequisite": "Must be an Adept",
+      "Restrictions": "",
+      "Description": "Magic swirls in Perdition, ebbing and flowing like a tide. Channel this raw energy, adding +2 to damage feats with spells. The modifier for Ice Shards jumps from +2 to +4 while Firestorm improves to +5.\\nSpells with capped damage like Sanctify (+1) or ones that don’t cause damage don’t change."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Basic",
+      "Name": "Stealth",
+      "Prerequisite": "",
+      "Restrictions": "Big ’Uns and warriors wearing medium or heavy armor can’t hide with Stealth. Faeries see those in hiding so can’t be surprised but can target or reveal the warrior.\\nRiders: Mounts are Big ’Uns and can’t hide.\\nFliers: Doesn’t work while flying.",
+      "Description": "Slink through shadows, silently pass through terrain, and attack with surprise.\\nBEGIN ADVENTURES IN HIDING. (See specifics on hiding in the Finer Points of Combat). Replace your warrior with a Hiding template. Actions other than a normal move reveal your warrior.\\nHIDE AGAIN. Once revealed, hide at the end of a turn unless your warrior attacked with surprise. To reestablish hiding, your warrior needs cover plus no opponent within long range may have a line of sight to him."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Stout",
+      "Prerequisite": "",
+      "Restrictions": "Stout is ineffective against Eldritch Fire or a Wyrd affecting injury outcomes.",
+      "Description": "Enjoy a rock hard skull that absorbs blows like the pain centers are turned off. On an injury outcome of 4 or 5, your warrior shakes off the pain and is staggered instead of stunned.\\nUnfortunately, once your warrior is already staggered, Stout is ineffective. Treat the injury outcome normally.\\nExample: Most times it takes three hits to wound a Dwarf. Unless the first injury outcome is a 6, he’s staggered. After another injury, anything but a 6 stuns him. Finally, a third injury wounds him. And while an opponent is swinging away, your Dwarf is also recovering so it takes a lot to finish him off!"
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Sunblind",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Dark Elves, Nibelung, and subterranean creatures rarely venture into the upper world. Their eyes are hypersensitive to daylight. Sunblind limits vision outdoors, penalizing\\nAgility -3. If your warrior’s Agility drops to 0 or lower, he’s unable to fire missiles, evade, climb, or attempt any Agility feat. Sunblind causes no problems at night, indoors, or underground.\\nRANGED MAGICK. Curve Shot, Eldritch Fire, Mind Throw, Mistwalker, Moon Glow, Sleep, Starfire, and Wyrd can’t be used in daylight either.\\nADAPT TO SUNLIGHT. Earn the Resilient skill to erase Sunblind"
+    },
+    {
+      "Category": "Agility",
+      "Type": "Master",
+      "Name": "Sure Shot",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Become an efficient hunter, able to pick off a target through the tiniest gap.\\nNOWHERE TO HIDE. Whether an opponent is behind a tree or lying down, cover doesn’t affect attack dice your warrior gets for missile shots. Range and elevation modifiers still apply.\\nCOVER STILL AFFECTS DAMAGE FEATS. Sometimes there’s just not a clean shot at a vital organ. The -3 damage feat modifier still applies to any victim with cover.\\nSEE YA! Your warrior ignores an opponent’s Conceal skill. Guild shadow robes and smoke bombs don’t obscure vision either."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Survival",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Norn learn to exist outdoors before learning to walk. Others pick up these four essential capabilities later.\\nTAKE PELTS. Preserve the pelt, teeth, horns, and meat of a wounded beast. (These rules supersede those in Adventures). Knock down a wounded beast and mark it with an unconscious condition marker. Your warrior must move within reach (but he doesn’t have to be the one who caused the wound).\\nRoll a Psyche feat each turn until successful. (Break off attempts at any time). Others with Survival can try too. The pelt and provisions belong to the successful warrior but he needs sufficient gear slots to hold the pickings. He doesn’t leave the battlemap.\\nSWIM. Lay down your warrior and cut through water at normal Speed. Diving in or standing up on shore costs no movement. Warriors can’t swim with armor bulkier than light.\\nActions other than swimming are prohibited. These include (but aren’t limited to):\\n• Attempting a feat • Picking up an item\\n• Climbing • Pushing\\n• Combat • Shapechanging\\n• A discovery feat • Spellcasting\\n• Hiding • Sprinting\\n• Holding a light source • Using Magick\\nSome skills also don’t work while swimming: Blade Barrier, Conceal, Deflect, Divert, Fend, Gird, Mantis Stance, Parry, Shield, and Shield Wall.\\nDEFY WEATHER. Improvise protection like waterproofing clothing or rubbing thick animal fats over extremities to shield from frostbite. Ignore adverse weather in adventures from snow, rain, slippery footing, heavy winds, etc. Assume your warrior (and mount, if a rider) is immune unless the app or adventure guide says differently.\\nBUILD FIRES. Light a torch before any turn for illumination or burning corpses. It can’t be traded, shared, or resold.\\nRiders: Dismount to take pelts or swim."
+    },
+    {
+      "Category": "Speed",
+      "Type": "Master",
+      "Name": "Swift",
+      "Prerequisite": "",
+      "Restrictions": "Swift doesn’t improve gait.",
+      "Description": "Improve running form so muscles are more responsive in straight-line bursts and in lateral moves critical to combat.\\nADD +1 TO SPEED. Not only are moves, charges, and sprints faster but your warrior might also take more attacks per turn (see Combat)."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Swim",
+      "Prerequisite": "",
+      "Restrictions": "Can’t wear armor bulkier than light.",
+      "Description": "An alligator, Nymph, shark, or war dog is born to Swim. They cut through deep water (sometimes faster than they move over land). Diving in or standing up on shore costs no movement. Warriors can’t swim with armor bulkier than light.\\nActions other than swimming are usually prohibited unless the creature has an attack intended for swimming like a shark’s bite.\\nProhibited actions include (but aren’t limited to):\\n• Attempting a feat • Picking up an item\\n• Climbing • Pushing\\n• Combat • Shapechanging\\n• A discovery feat • Spellcasting\\n• Hiding • Sprinting\\n• Holding a light source • Using Magick\\nSome skills don’t work while swimming: Blade Barrier, Conceal, Deflect, Divert, Fend, Gird, Mantis Stance, Parry, Shield, and Shield Wall."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Terror",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Terror strikes when you are absolutely certain you’re making a grave mistake. It’s a primal reaction to supernatural creatures like the Rain King of the Wandering Forest or the powerful ice elemental, Wintergaunt.\\nUNNERVING CREATURES. Approaching or attacking a creature with Terror requires a rout feat to decide whether your warrior has the courage to follow through or quivers in fright.\\nSEE IF YOU’RE UNNERVED. It’s the duty of the opposing player to point out the creature has Terror. Roll a rout feat with a -3 modifier before your warrior…\\n…moves within reach of the creature\\n…charges the creaturen\\… targets the creature with a missile, magick, spell, or Cutpurse.\\nSUCCESS. Your warrior takes a normal turn, getting all his normal attacks. Also, once your warrior is within reach of the creature, no further feats are required.\\nFAILURE. Your warrior’s turn ends. Mark him with a shaken condition marker and a chit.\\nPROTECTION. Einherjar, Fear, Fearless, and Valor grant immunity to Terror. Creatures with Terror are also immune. There’s nothing more terrifying in Perdition."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Basic",
+      "Name": "Thrash",
+      "Prerequisite": "",
+      "Restrictions": "Deflect negates Thrash. Doesn’t combine with Assassin, Clobber, Clout, Deadly Aim, Dispatch, Hind Claws, Lucky Strike, Tiger Claw, or Vanquish.",
+      "Description": "Every Orc knows the object of a fight is to maim or kill the foe. Your warrior might not be an expert on anatomy but knows where to aim to make an attack really hurt. Thrash adds +1 to injury outcomes in melee."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Basic",
+      "Name": "Thrower",
+      "Prerequisite": "A 1-Handed Missile (with maximum range of short)",
+      "Restrictions": "Doesn’t combine with Sharpshooter.",
+      "Description": "Hurl missiles like a dagger, throwing hammer, spear, or throwing star with pinpoint accuracy. A Pixie bow (2-handed) or even a javelin (long range) can’t benefit your Thrower.\\nADD +1 ATTACK DIE EVERY TOSS. With a higher Agility score than an opponent, your Thrower gets 3 dice. A target in cover or with Conceal still limits your Thrower to 1 attack die max."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Tough Hide",
+      "Prerequisite": "",
+      "Restrictions": "Engage circumvents Tough Hide. Opponents with Zero In can ignore the creature’s Tough Hide too. Gain no advantage combining Tough Hide with Blade Barrier, Bone, Gird, Shield, or Shield Rush.",
+      "Description": "Beasts with heavy fur, thick skin, or bark (like a Dryad) are protected by Tough Hide. Shield hits are blocked so the opponent misses instead. Tough Hide blocks any number of shield hits in the same round. And even when the beast is stunned, Tough Hide still protects.\\nDirty Tricks don’t work versus Tough Hide."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Trample",
+      "Prerequisite": "",
+      "Restrictions": "Ineffective against a mounted or flying opponent and also against opponents with Sidestep.",
+      "Description": "Warhorses, unicorns, and bull Nari add a dangerous hoof attack after a charge.\\nCHARGE! Resolve your warrior’s melee attack and then the Trample attack. Trample ignores Strength and always uses 2 attack dice—never more and no less. On a hit, roll a damage feat of D6 +4 and an injury outcome if needed. Credit Shadow earned to your warrior.\\nON AN OOPS (DOUBLE SKULLS), follow these steps and don‘t draw an oops from the discovery app:\\n1] Knock your rider down and replace his model with one you use for the warrior on foot. OR knock down a Nari.\\n2] Roll an injury outcome (Combat Step 5) for the warrior/Nari.\\n3] If not wounded, your warrior/Nari may recover. The mount bolts off the battlemap for the adventure but reclaim it afterward unharmed. For a wound, see next.\\nWOUNDED. For riders draw 1 wound result to apply to your warrior and mount. Treat your warrior/Nari normally (Combat Step 6).\\nA mount shakes off a knockout. Heal a maimed or War Wound result or it is horribly crippled and must be put down. Bind Wounds, Herbal Lore, Lay On Hands, dragon blood, an Elixir of Vigor, or the Vonnoh’s Touch spell can cure it. The mount is too gravely hurt by a kill to be saved.\\nRemove your wounded rider/Nari from the battlemap unless being Feasted on."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Unbreakable",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Unbreakable items are made from Adamant, a substance from the Otherworld. Adamant is pliant—almost liquid—like mercury. The way it’s fabricated is a mystery lost to time.\\nAdamant is Unbreakable. Whether armor, a weapon, or gear, the item isn’t broken by any means. Not even an Adamant Blade snaps another Adamant Blade. Adamant ignores an oops that snaps it. Cleave is ineffectual. Shatter and Warp spells are useless too."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Basic",
+      "Name": "Undaunted",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Your warrior is tenacious against overwhelming odds and hits stronger foes more often.\\nWEAK STUFF. An opponent might have greater Strength but your warrior no longer only hits on a critical. Land blows on parry hits and shield hits too.\\nAn opponent can still block the attack with Blade Barrier, Bone, Fend, Gird, Parry, Shield, Shield Rush, and Tough Hide. Undaunted doesn’t affect damage feats."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Basic",
+      "Name": "Unencumbered",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Bulky armor impedes movement and sacrifices attacks when Speed slips under 6 (see Attacks Per Turn in Combat). Build muscle and gain flexibility to support added weight.\\nREDUCE AN ARMOR SPEED PENALTY -1. Lower the Speed Penalty from heavy armor from -2 to -1. Medium armor’s Speed Penalty drops to 0. There’s no benefit if the armor is already light.\\nUNENCUMBERED DOESN’T AFFECT BULK. Armor of medium or heavy bulk still can’t be worn with skills like Climb or Escape since these require light armor.\\nSPELLCASTERS. An Adept’s Speed Penalty doubles wearing armor so a Druid in ringmail has a Speed Penalty of -2. Apply Unencumbered after this penalty, bringing the ringmail is back to its normal -1."
+    },
+    {
+      "Category": "Strength",
+      "Type": "Master",
+      "Name": "Vanquish",
+      "Prerequisite": "Any Melee Weapon",
+      "Restrictions": "Doesn’t combine with Assassin, Clobber, Clout, Deadly Aim, Dispatch, Hind Claws, Lucky Strike, Thrash, or Tiger Claw.",
+      "Description": "Sometimes it’s not just about beating your foe, it’s about humbling him. When rolling an injury outcome, overpower the opponent for a more deadly result. Use the table below rather than the Injury Outcome table in Combat. 1–3 Stunned\\n4–6 Wounded\\nWhen opponent is already stunned, 1–6 wounds. Against an opponent with Deflect, use the standard injury outcome table."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Vitality",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Challasaia’s Talisman grants Vitality. The flora and fauna of Perdition radiate vibrant energy the Talisman literally siphons. Your warrior is invigorated, adding +1 to all ability scores."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Vorpal",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Tear through flesh and bone with a recognizable “snicker-snack!”\\nA Vorpal weapon adds +1 to damage feats. It’s so well honed whenever 2 or more critical hits are rolled, the damage feat automatically succeeds. Skip to the injury outcome right away."
+    },
+    {
+      "Category": "Psyche",
+      "Type": "Expert",
+      "Name": "War Priest",
+      "Prerequisite": "Must be a Shadow Mage or Shaman",
+      "Restrictions": "",
+      "Description": "Call on the gods to perform miracles ranging from healing wounds or exorcising WitchBorn to safeguarding the weak.\\nDwarves first learned Divine magic from Dur. Druids learned it to worship the Fates. And now Equinar answers Monk’s calls for Divine aid.\\nYour Adept can add Divine spells to his repertoire, learning spells up to Third Magnitude in the same way he earns spells from his original school."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "War Wound",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "This type of wound permanently impairs a victim by lowering an ability score 1–2 points. War Wounds are cumulative so hamper your warrior more and more unless cured.\\nFIX IT. Earn Resilient to erase the lingering effects of a War Wound.\\nLIGHT THE TORCHES. If a War Wound drops one of your warrior’s ability scores to 0 or lower, he may be toast (literally). Heal your warrior right away or in the Aftermath.\\n• Mortals. Apply the Bind Wounds skill or the Restore spell. If this fails, your warrior undergoes the quickening and becomes WitchBorn just as if the wound was a kill. Assume your war clan deals with the WitchBorn and puts their comrade to final rest.\\n• Faeries. Attempt a Faerie Ring to open a Portal to the Otherworld. There’s a 50% your warrior can rekindle in a new body, otherwise he is dead.\\nWhether mortal or a Faerie, a dead warrior is removed from your roster. All equipment, mounts, and vehicles are forever lost too."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Wee",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Wee warriors are tiny. Guild Night Runners or Brounies are petite but not necessarily delicate. Being Wee comes with certain disadvantages and advantages listed below.\\n• 2-HANDED WEAPONS ARE OFF LIMITS. Weapons like a greatsword plus all bows and crossbows are just too big to carry.\\n• THERE’S LESS FORCE BEHIND SWINGS. Figure attack dice normally but subtract -2 from damage feats in melee. Skills like Gash or Batter still improve on this.\\n• DUCK PAST OPPONENTS. Add +2 to Agility when evading.\\n• SQUEEZE INTO AREAS ½ THE WIDTH OF YOUR BASE. Fight, assist, and move in cramped conditions without penalty."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "WitchBorn",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Corrupt spirits quicken inside corpses of mortals to rise again with a semblance of life though selfish and amoral. Some remember flashes of a host’s former life but few have knowledge of their past.\\nWITCHBORN ARE COMPELLED TO FEAST. Faeries are the tastiest. Without fresh warm blood the host body decays. See the Feast trait previous.\\nWITCHBORN RETAIN MORTAL QUALITIES. They are sentient, move, speak, plus have the following:\\n• The host’s skills\\n• The host’s ability scores, improved +1\\n• Immunity to poison\\n• Perfect vision in total darkness or daylight\\n• Immunity to weather like the Survival skill\\n• Suffer wounds unless burned to ash\\nWITCHBORN ARE BEYOND EMOTION OR FEELING.\\n• All are Fearless\\n• They’re immune to Charm, Curse, Daze, Possess, Sleep plus the Backbiter, Dread, Dream, Hex, Paralyze, and Transference spells.\\nTHE HOST BODY HAS LIMITS.\\n• Potions and herbs have no benefit\\n• WitchBorn never earn levels; skills are limited to what the host had in life and from the quickening\\n• WitchBorn strike last after sprinting unless replenished by a drinking vessel of blood"
+    },
+    {
+      "Category": "Speed",
+      "Type": "Basic",
+      "Name": "Withdraw",
+      "Prerequisite": "",
+      "Restrictions": "An opponent with Engage can contest the evade attempt. Your warrior must roll an Agility feat but isn’t penalized. Berserkers can’t earn Withdraw.",
+      "Description": "Nicknamed “the reverse charge,” this quick and sometimes wild attack distracts an opponent. While he’s reeling, your warrior retreats.\\nDECLARE “WITHDRAW” BEFORE A MELEE ATTACK. Resolve the attack first. Whether it hits or not, your warrior automatically evades without being contested and moves away up to the limit of his Speed. Any attacks beyond the first are forfeited.\\nOOPS. The turn ends before your warrior can Withdraw."
+    },
+    {
+      "Category": "Traits",
+      "Type": "Trait",
+      "Name": "Wither",
+      "Prerequisite": "",
+      "Restrictions": "",
+      "Description": "Prematurely age with a touch. Wield a melee weapon, fist, or claw. After a successful hit and damage feat, the victim’s skin wrinkles and reveals a web of veins underneath.\\nSKIP THE INJURY OUTCOME. Instead, the victim ages and all his ability scores lower -1. Reduced scores carry through the Aftermath but are restored before the next.\\nEffects are cumulative so hitting a victim repeatedly can lower an ability score to 0. At 0, the victim collapses and is wounded. Draw wounds, ignoring results besides a War Wound. Normal healing methods restore this.\\nROCK WITCHBORN. Age the WitchBorn’s host body so much when an ability score drops to 0, the body becomes an uninhabitable husk.\\nFIX IT NOW! Banish can reverse lowered scores but is too late to affect a War Wound."
+    },
+    {
+      "Category": "Agility",
+      "Type": "Expert",
+      "Name": "Zero In",
+      "Prerequisite": "",
+      "Restrictions": "Doesn’t work against Bone",
+      "Description": "Sneak missile shots under the guard of a blocking weapon or past the lip of an upraised shield.\\nAny missile your warrior fires hits normally, ignoring certain protective skills the target has. Below are skills a parry hit and shield hit bypass. Also listed are skills where Zero In ignores the Defense modifier.\\nFend Blade Barrier Divert Parry Gird Mantis Stance Shield Shield Wall Shield Rush Tough Hide"
+    }
+  ]
+}

@@ -1,17 +1,20 @@
 package com.example.witchbornroster;
 
-public class Skill {
+import android.os.Parcel;
+import android.os.Parcelable;
+
+public class Skill implements Parcelable {
     public static final String BASIC_SKILL = "Basic";
     public static final String EXPERT_SKILL = "Expert";
     public static final String MASTER_SKILL = "Master";
     public static final String TRAIT = "Trait";
 
-    String category;
-    String type;
-    String name;
-    String prerequisite;
-    String description;
-    String restrictions;
+    private String category;
+    private String type;
+    private String name;
+    private String prerequisite;
+    private String description;
+    private String restrictions;
 
     public Skill(String category, String type, String name, String prerequisite, String description, String restrictions) {
         this.category = category;
@@ -68,5 +71,54 @@ public class Skill {
 
     public void setRestrictions(String restrictions) {
         this.restrictions = restrictions;
+    }
+
+    protected Skill(Parcel in) {
+        category = in.readString();
+        type = in.readString();
+        name = in.readString();
+        prerequisite = in.readString();
+        description = in.readString();
+        restrictions = in.readString();
+    }
+
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        dest.writeString(category);
+        dest.writeString(type);
+        dest.writeString(name);
+        dest.writeString(prerequisite);
+        dest.writeString(description);
+        dest.writeString(restrictions);
+    }
+
+    @SuppressWarnings("unused")
+    public static final Parcelable.Creator<Skill> CREATOR = new Parcelable.Creator<Skill>() {
+        @Override
+        public Skill createFromParcel(Parcel in) {
+            return new Skill(in);
+        }
+
+        @Override
+        public Skill[] newArray(int size) {
+            return new Skill[size];
+        }
+    };
+
+    public int getSkillValue(){
+        switch (type){
+            case BASIC_SKILL:
+                return 2;
+            case EXPERT_SKILL:
+                return 3;
+            case MASTER_SKILL:
+                return 5;
+            default: return 0;
+        }
     }
 }
